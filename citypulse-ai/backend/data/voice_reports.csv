@@ -1,0 +1,4 @@
+id,issue_id,audio_path,transcript,transcript_language,translated_text,processing,created_at
+VOI3F6A3EE7,CP-31FC5580,uploads/CP-31FC5580_voice.webm,Yahaan kal se bahut paani jama hai,hi,Yahaan kal se bahut paani jama hai,demo-fallback,2026-08-19T16:41:28.470425+00:00
+VOI68257973,CP-B8E8C9FA,uploads/CP-B8E8C9FA_voice.webm,Yahaan kal se bahut paani jama hai,hi,Yahaan kal se bahut paani jama hai,demo-fallback,2026-08-19T16:42:04.907841+00:00
+VOI24595884,CP-F7908C71,uploads/CP-F7908C71_voice.webm,,unknown,,demo-fallback,2026-08-19T17:02:33.968339+00:00

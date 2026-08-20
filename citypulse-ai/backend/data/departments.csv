@@ -1,0 +1,9 @@
+id,name,category,sla_hours,head,email,phone,active_workers
+dept-roads,Road Maintenance,pothole;crack;road_damage;footpath,48,Rajesh Kumar,roads@amc.gov.in,9800001111,12
+dept-drain,Drainage & Waterlogging,waterlogging;manhole;drain,24,Sunita Verma,drainage@amc.gov.in,9800002222,8
+dept-sanit,Sanitation & Waste,garbage;waste,72,Kamal Shah,sanitation@amc.gov.in,9800003333,15
+dept-light,Street Lighting,streetlight,96,Mohan Nair,lighting@amc.gov.in,9800004444,6
+dept-parks,Parks & Trees,fallen_tree;footpath;park_damage,72,Geeta Iyer,parks@amc.gov.in,9800005555,5
+dept-water,Water Supply,sewage;water_leak;pipe_burst,24,Anil Bose,water@amc.gov.in,9800006666,7
+dept-emerg,Emergency Response,critical;electrical_hazard,12,Vijay Nair,emergency@amc.gov.in,9800007777,10
+dept-traffic,Traffic & Signals,traffic_signal;road_marking,48,Priti Shah,traffic@amc.gov.in,9800008888,6

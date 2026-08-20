@@ -1,0 +1,11 @@
+id,name,lat_center,lng_center,health_score,population,area_sqkm,councillor,total_issues,open_issues,resolved_issues
+w01,Sector 7 - Chandkheda,23.1125,72.5873,72,68000,4.2,Bharat Patel,18,9,9
+w02,Maninagar,22.9954,72.6185,65,82000,5.1,Rekha Shah,22,13,9
+w03,Satellite,23.0300,72.5100,78,95000,6.3,Dinesh Mehta,15,6,9
+w04,Navrangpura,23.0395,72.5560,81,71000,3.8,Hina Desai,11,4,7
+w05,Gota,23.1180,72.5520,69,54000,4.9,Suresh Thakor,16,8,8
+w06,Bopal,23.0350,72.4700,74,61000,5.5,Kavita Joshi,13,6,7
+w07,Vatva GIDC,22.9600,72.6500,58,43000,3.2,Ramesh Solanki,20,12,8
+w08,Vastral,23.0250,72.6650,62,38000,2.9,Nilesh Rana,17,9,8
+w09,Nikol,23.0450,72.6350,70,49000,3.6,Dipika Chauhan,14,7,7
+w10,Naranpura,23.0700,72.5650,76,56000,4.1,Pravin Modi,12,5,7

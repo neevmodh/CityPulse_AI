@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+*.env
+!citypulse-ai/backend/.env
+
+# Node
+node_modules/
+.next/
+out/
+.npm
+.cache
+*.tsbuildinfo
+.env.local
+!citypulse-ai/frontend/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# ML weights (large files)
+citypulse-ai/backend/weights/*.pt
+citypulse-ai/backend/weights/*.bin
+citypulse-ai/backend/weights/*.pth
+
+# Uploads (user content — not tracked)
+citypulse-ai/backend/uploads/*.jpg
+citypulse-ai/backend/uploads/*.jpeg
+citypulse-ai/backend/uploads/*.png
+citypulse-ai/backend/uploads/*.webp
+citypulse-ai/backend/uploads/*.webm
+citypulse-ai/backend/uploads/*.mp3
+citypulse-ai/backend/uploads/*.wav
+
+# Logs
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Coverage
+htmlcov/
+.coverage
+.tox/

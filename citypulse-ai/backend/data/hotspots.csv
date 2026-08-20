@@ -1,0 +1,6 @@
+id,ward,latitude,longitude,radius_meters,issue_count,dominant_category,avg_risk_score,severity,detected_at,is_active
+HSP500F15,w01,23.111333,72.5866,300,3,pothole,79.0,high,2026-08-19T16:21:20.851575+00:00,true
+HSP013FFA,w03,23.030333,72.509,300,3,garbage,72.67,high,2026-08-19T16:21:20.851710+00:00,true
+HSP2848EF,w10,23.069667,72.565,300,3,pothole,68.33,high,2026-08-19T16:21:20.851950+00:00,true
+HSP235C54,w08,23.025,72.665333,300,3,crack,46.33,medium,2026-08-19T16:21:20.851990+00:00,true
+HSPE2E288,w04,23.0395,72.555667,300,3,waterlogging,55.67,medium,2026-08-19T16:21:20.852226+00:00,true

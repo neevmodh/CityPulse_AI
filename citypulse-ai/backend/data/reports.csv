@@ -1,0 +1,1005 @@
+id,issue_id,citizen_id,image_path,description,latitude,longitude,created_at
+r001,i001,u001,uploads/r001.jpg,"Pothole very dangerous near school. Kids on bicycles keep falling.",23.1125,72.5873,2026-08-01T08:30:00Z
+r002,i001,u004,uploads/r002.jpg,"Same pothole, even bigger now after last night rain. Please fix urgently.",23.1126,72.5874,2026-08-02T09:00:00Z
+r003,i001,u003,uploads/r003.jpg,"Third complaint. School van driver refused route due to this pothole.",23.1124,72.5872,2026-08-03T07:30:00Z
+r004,i002,u003,uploads/r004.jpg,"Underpass completely flooded. Water entering shops on both sides.",22.9954,72.6185,2026-08-02T07:00:00Z
+r005,i002,u002,uploads/r005.jpg,"Car engine flooded here. 2 feet water minimum. Power lines touching water.",22.9955,72.6186,2026-08-02T08:00:00Z
+r006,i003,u001,uploads/r006.jpg,"Open manhole confirmed. Added broken brick as marker — not enough.",23.1098,72.5851,2026-08-03T07:00:00Z
+r007,i003,u004,uploads/r007.jpg,"Man on scooter nearly fell in last evening. This is life threatening.",23.1097,72.5850,2026-08-03T19:00:00Z
+r008,i004,u001,uploads/r008.jpg,"Hospital garbage overflow visible from road. Unbearable smell.",23.0300,72.5100,2026-08-04T09:00:00Z
+r009,i005,u004,uploads/r009.jpg,"Entire stretch dark. Snatching incident happened here yesterday night.",23.0010,72.6200,2026-08-06T08:00:00Z
+r010,i007,u001,uploads/r010.jpg,"Another pothole in same cluster — bigger than reported ones.",23.0752,72.5102,2026-08-02T10:00:00Z
+r011,i010,u002,uploads/r011.jpg,"Road cave-in worse today. Truck tyre stuck. Completely impassable.",22.9601,72.6501,2026-08-02T08:00:00Z
+r012,i011,u003,uploads/r012.jpg,"Saw motorcyclist fall here at 7am. Ambulance called.",23.0701,72.5651,2026-08-04T09:00:00Z
+r013,i017,u004,uploads/r013.jpg,"Bio-medical bags clearly marked. Hospital name visible. Very serious.",22.9581,72.6521,2026-08-05T08:00:00Z
+r014,i022,u001,uploads/r014.jpg,"Chandkheda bridge underpass impassable. School bus took 2km detour.",23.1091,72.5841,2026-08-01T18:00:00Z
+r015,i031,u003,uploads/r015.jpg,"Manhole depth confirmed 8 feet by fire dept. Rope put as barrier.",23.0321,72.5091,2026-08-01T10:00:00Z
+r016,i033,u002,uploads/r016.jpg,"Sewage overflow. Kids playing nearby. Completely unacceptable.",23.1106,72.5866,2026-08-04T08:00:00Z
+r017,i038,u001,uploads/r017.jpg,"Road cave-in getting bigger with every vehicle. Will swallow car soon.",23.0481,72.6401,2026-08-05T07:00:00Z
+r018,i040,u003,uploads/r018.jpg,"Live wire touching puddle water. Extremely dangerous in rain. SOS.",23.0361,72.4731,2026-08-04T17:00:00Z
+r019,i043,u004,uploads/r019.jpg,"Child fell in drain — minor injuries. Same drain still open.",23.0261,72.5071,2026-08-04T09:00:00Z
+r020,i039,u001,uploads/r020.jpg,"Water gushing like fountain from burst main. Road completely submerged.",22.9901,72.6051,2026-08-03T07:00:00Z
+bulk-report-00054,bulk-00054,u001,,Pothole reported near Sector 7 - Chandkheda; clustered prototype observation 54.,23.107635,72.583358,2026-07-23T14:00:00Z
+bulk-report-00055,bulk-00055,u002,,Road Damage reported near Maninagar; clustered prototype observation 55.,22.992770,72.615226,2026-07-31T04:00:00Z
+bulk-report-00056,bulk-00056,u003,,Garbage reported near Satellite; clustered prototype observation 56.,23.026906,72.506232,2026-08-14T23:00:00Z
+bulk-report-00057,bulk-00057,u004,,Waterlogging reported near Navrangpura; clustered prototype observation 57.,23.035323,72.552310,2026-07-14T03:00:00Z
+bulk-report-00058,bulk-00058,u105,,Manhole reported near Gota; clustered prototype observation 58.,23.113592,72.547636,2026-08-13T22:00:00Z
+bulk-report-00059,bulk-00059,u106,,Streetlight reported near Bopal; clustered prototype observation 59.,23.030356,72.465957,2026-08-19T10:00:00Z
+bulk-report-00060,bulk-00060,u107,,Sewage reported near Vatva GIDC; clustered prototype observation 60.,22.954895,72.645738,2026-07-27T14:00:00Z
+bulk-report-00061,bulk-00061,u108,,Fallen Tree reported near Vastral; clustered prototype observation 61.,23.019345,72.661525,2026-08-08T13:00:00Z
+bulk-report-00062,bulk-00062,u109,,Other reported near Nikol; clustered prototype observation 62.,23.041815,72.630998,2026-08-14T11:00:00Z
+bulk-report-00063,bulk-00063,u110,,Pothole reported near Naranpura; clustered prototype observation 63.,23.064768,72.560799,2026-07-27T11:00:00Z
+bulk-report-00064,bulk-00064,u111,,Road Damage reported near Sector 7 - Chandkheda; clustered prototype observation 64.,23.110577,72.585362,2026-08-18T08:00:00Z
+bulk-report-00065,bulk-00065,u112,,Garbage reported near Maninagar; clustered prototype observation 65.,22.992565,72.614567,2026-08-13T11:00:00Z
+bulk-report-00066,bulk-00066,u113,,Waterlogging reported near Satellite; clustered prototype observation 66.,23.029103,72.507939,2026-08-06T03:00:00Z
+bulk-report-00067,bulk-00067,u114,,Manhole reported near Navrangpura; clustered prototype observation 67.,23.037915,72.554999,2026-07-15T02:00:00Z
+bulk-report-00068,bulk-00068,u115,,Streetlight reported near Gota; clustered prototype observation 68.,23.116742,72.549858,2026-08-17T19:00:00Z
+bulk-report-00069,bulk-00069,u116,,Sewage reported near Bopal; clustered prototype observation 69.,23.032799,72.466893,2026-08-09T16:00:00Z
+bulk-report-00070,bulk-00070,u117,,Fallen Tree reported near Vatva GIDC; clustered prototype observation 70.,22.958584,72.645639,2026-08-06T01:00:00Z
+bulk-report-00071,bulk-00071,u118,,Other reported near Vastral; clustered prototype observation 71.,23.022106,72.663023,2026-08-15T02:00:00Z
+bulk-report-00072,bulk-00072,u119,,Pothole reported near Nikol; clustered prototype observation 72.,23.043155,72.633083,2026-08-05T23:00:00Z
+bulk-report-00073,bulk-00073,u120,,Road Damage reported near Naranpura; clustered prototype observation 73.,23.068470,72.562958,2026-08-05T02:00:00Z
+bulk-report-00074,bulk-00074,u121,,Garbage reported near Sector 7 - Chandkheda; clustered prototype observation 74.,23.112025,72.587020,2026-08-16T18:00:00Z
+bulk-report-00075,bulk-00075,u122,,Waterlogging reported near Maninagar; clustered prototype observation 75.,22.995887,72.618885,2026-07-07T10:00:00Z
+bulk-report-00076,bulk-00076,u123,,Manhole reported near Satellite; clustered prototype observation 76.,23.030148,72.510016,2026-07-11T02:00:00Z
+bulk-report-00077,bulk-00077,u124,,Streetlight reported near Navrangpura; clustered prototype observation 77.,23.038799,72.556327,2026-07-29T07:00:00Z
+bulk-report-00078,bulk-00078,u125,,Sewage reported near Gota; clustered prototype observation 78.,23.117287,72.550924,2026-07-20T02:00:00Z
+bulk-report-00079,bulk-00079,u126,,Fallen Tree reported near Bopal; clustered prototype observation 79.,23.035130,72.470798,2026-08-18T17:00:00Z
+bulk-report-00080,bulk-00080,u127,,Other reported near Vatva GIDC; clustered prototype observation 80.,22.959951,72.650087,2026-07-23T13:00:00Z
+bulk-report-00081,bulk-00081,u128,,Pothole reported near Vastral; clustered prototype observation 81.,23.025217,72.665357,2026-08-17T05:00:00Z
+bulk-report-00082,bulk-00082,u129,,Road Damage reported near Nikol; clustered prototype observation 82.,23.044318,72.633519,2026-08-15T23:00:00Z
+bulk-report-00083,bulk-00083,u130,,Garbage reported near Naranpura; clustered prototype observation 83.,23.069488,72.564550,2026-07-27T09:00:00Z
+bulk-report-00084,bulk-00084,u131,,Waterlogging reported near Sector 7 - Chandkheda; clustered prototype observation 84.,23.114832,72.589046,2026-08-18T02:00:00Z
+bulk-report-00085,bulk-00085,u132,,Manhole reported near Maninagar; clustered prototype observation 85.,22.996931,72.620331,2026-07-23T08:00:00Z
+bulk-report-00086,bulk-00086,u133,,Streetlight reported near Satellite; clustered prototype observation 86.,23.032133,72.511848,2026-07-20T17:00:00Z
+bulk-report-00087,bulk-00087,u134,,Sewage reported near Navrangpura; clustered prototype observation 87.,23.042365,72.558131,2026-08-07T17:00:00Z
+bulk-report-00088,bulk-00088,u135,,Fallen Tree reported near Gota; clustered prototype observation 88.,23.119734,72.553522,2026-08-13T19:00:00Z
+bulk-report-00089,bulk-00089,u136,,Other reported near Bopal; clustered prototype observation 89.,23.036128,72.472439,2026-07-20T03:00:00Z
+bulk-report-00090,bulk-00090,u137,,Pothole reported near Vatva GIDC; clustered prototype observation 90.,22.962752,72.651517,2026-08-03T11:00:00Z
+bulk-report-00091,bulk-00091,u138,,Road Damage reported near Vastral; clustered prototype observation 91.,23.027887,72.665514,2026-07-21T19:00:00Z
+bulk-report-00092,bulk-00092,u139,,Garbage reported near Nikol; clustered prototype observation 92.,23.046671,72.637106,2026-07-19T17:00:00Z
+bulk-report-00093,bulk-00093,u140,,Waterlogging reported near Naranpura; clustered prototype observation 93.,23.071423,72.567367,2026-08-18T02:00:00Z
+bulk-report-00094,bulk-00094,u141,,Manhole reported near Sector 7 - Chandkheda; clustered prototype observation 94.,23.116493,72.591840,2026-07-25T21:00:00Z
+bulk-report-00095,bulk-00095,u142,,Streetlight reported near Maninagar; clustered prototype observation 95.,23.000070,72.623189,2026-08-16T11:00:00Z
+bulk-report-00096,bulk-00096,u143,,Sewage reported near Satellite; clustered prototype observation 96.,23.034154,72.514446,2026-08-13T04:00:00Z
+bulk-report-00097,bulk-00097,u144,,Fallen Tree reported near Navrangpura; clustered prototype observation 97.,23.043417,72.559507,2026-07-29T01:00:00Z
+bulk-report-00098,bulk-00098,u145,,Other reported near Gota; clustered prototype observation 98.,23.122235,72.555966,2026-07-23T08:00:00Z
+bulk-report-00099,bulk-00099,u146,,Pothole reported near Bopal; clustered prototype observation 99.,23.037784,72.472774,2026-08-03T02:00:00Z
+bulk-report-00100,bulk-00100,u147,,Road Damage reported near Vatva GIDC; clustered prototype observation 100.,22.963824,72.653973,2026-08-16T17:00:00Z
+bulk-report-00101,bulk-00101,u148,,Garbage reported near Vastral; clustered prototype observation 101.,23.030091,72.669091,2026-07-04T21:00:00Z
+bulk-report-00102,bulk-00102,u149,,Waterlogging reported near Nikol; clustered prototype observation 102.,23.048794,72.640521,2026-07-10T04:00:00Z
+bulk-report-00103,bulk-00103,u150,,Manhole reported near Naranpura; clustered prototype observation 103.,23.073618,72.568132,2026-08-02T00:00:00Z
+bulk-report-00104,bulk-00104,u151,,Streetlight reported near Sector 7 - Chandkheda; clustered prototype observation 104.,23.107681,72.583184,2026-07-15T04:00:00Z
+bulk-report-00105,bulk-00105,u152,,Sewage reported near Maninagar; clustered prototype observation 105.,22.991629,72.614697,2026-07-24T19:00:00Z
+bulk-report-00106,bulk-00106,u153,,Fallen Tree reported near Satellite; clustered prototype observation 106.,23.026566,72.507150,2026-08-02T15:00:00Z
+bulk-report-00107,bulk-00107,u154,,Other reported near Navrangpura; clustered prototype observation 107.,23.035014,72.551635,2026-07-12T02:00:00Z
+bulk-report-00108,bulk-00108,u155,,Pothole reported near Gota; clustered prototype observation 108.,23.113965,72.549608,2026-07-18T16:00:00Z
+bulk-report-00109,bulk-00109,u156,,Road Damage reported near Bopal; clustered prototype observation 109.,23.030830,72.466320,2026-07-11T04:00:00Z
+bulk-report-00110,bulk-00110,u157,,Garbage reported near Vatva GIDC; clustered prototype observation 110.,22.956248,72.646033,2026-07-04T21:00:00Z
+bulk-report-00111,bulk-00111,u158,,Waterlogging reported near Vastral; clustered prototype observation 111.,23.020749,72.661597,2026-08-18T21:00:00Z
+bulk-report-00112,bulk-00112,u159,,Manhole reported near Nikol; clustered prototype observation 112.,23.041323,72.631800,2026-07-22T19:00:00Z
+bulk-report-00113,bulk-00113,u160,,Streetlight reported near Naranpura; clustered prototype observation 113.,23.066951,72.560867,2026-07-22T14:00:00Z
+bulk-report-00114,bulk-00114,u161,,Sewage reported near Sector 7 - Chandkheda; clustered prototype observation 114.,23.110604,72.584046,2026-08-12T02:00:00Z
+bulk-report-00115,bulk-00115,u162,,Fallen Tree reported near Maninagar; clustered prototype observation 115.,22.993138,72.616804,2026-08-17T12:00:00Z
+bulk-report-00116,bulk-00116,u163,,Other reported near Satellite; clustered prototype observation 116.,23.027558,72.508045,2026-07-24T13:00:00Z
+bulk-report-00117,bulk-00117,u164,,Pothole reported near Navrangpura; clustered prototype observation 117.,23.036763,72.554318,2026-08-16T07:00:00Z
+bulk-report-00118,bulk-00118,u165,,Road Damage reported near Gota; clustered prototype observation 118.,23.115774,72.550205,2026-07-05T04:00:00Z
+bulk-report-00119,bulk-00119,u166,,Garbage reported near Bopal; clustered prototype observation 119.,23.032077,72.467430,2026-08-10T11:00:00Z
+bulk-report-00120,bulk-00120,u167,,Waterlogging reported near Vatva GIDC; clustered prototype observation 120.,22.957527,72.649376,2026-07-26T16:00:00Z
+bulk-report-00121,bulk-00121,u168,,Manhole reported near Vastral; clustered prototype observation 121.,23.022045,72.662554,2026-08-01T06:00:00Z
+bulk-report-00122,bulk-00122,u169,,Streetlight reported near Nikol; clustered prototype observation 122.,23.042639,72.633215,2026-08-09T06:00:00Z
+bulk-report-00123,bulk-00123,u170,,Sewage reported near Naranpura; clustered prototype observation 123.,23.068110,72.564245,2026-08-08T04:00:00Z
+bulk-report-00124,bulk-00124,u171,,Fallen Tree reported near Sector 7 - Chandkheda; clustered prototype observation 124.,23.111855,72.587317,2026-07-14T05:00:00Z
+bulk-report-00125,bulk-00125,u172,,Other reported near Maninagar; clustered prototype observation 125.,22.995499,72.617742,2026-07-29T03:00:00Z
+bulk-report-00126,bulk-00126,u173,,Pothole reported near Satellite; clustered prototype observation 126.,23.030680,72.509976,2026-07-17T22:00:00Z
+bulk-report-00127,bulk-00127,u174,,Road Damage reported near Navrangpura; clustered prototype observation 127.,23.039375,72.555236,2026-07-28T02:00:00Z
+bulk-report-00128,bulk-00128,u175,,Garbage reported near Gota; clustered prototype observation 128.,23.117255,72.552939,2026-07-17T15:00:00Z
+bulk-report-00129,bulk-00129,u176,,Waterlogging reported near Bopal; clustered prototype observation 129.,23.035616,72.469354,2026-07-25T15:00:00Z
+bulk-report-00130,bulk-00130,u177,,Manhole reported near Vatva GIDC; clustered prototype observation 130.,22.959807,72.650396,2026-07-16T05:00:00Z
+bulk-report-00131,bulk-00131,u178,,Streetlight reported near Vastral; clustered prototype observation 131.,23.025394,72.666393,2026-07-29T00:00:00Z
+bulk-report-00132,bulk-00132,u179,,Sewage reported near Nikol; clustered prototype observation 132.,23.046312,72.635733,2026-08-12T22:00:00Z
+bulk-report-00133,bulk-00133,u180,,Fallen Tree reported near Naranpura; clustered prototype observation 133.,23.069114,72.565569,2026-07-15T08:00:00Z
+bulk-report-00134,bulk-00134,u181,,Other reported near Sector 7 - Chandkheda; clustered prototype observation 134.,23.114659,72.589069,2026-07-27T20:00:00Z
+bulk-report-00135,bulk-00135,u182,,Pothole reported near Maninagar; clustered prototype observation 135.,22.997239,72.620213,2026-08-04T09:00:00Z
+bulk-report-00136,bulk-00136,u183,,Road Damage reported near Satellite; clustered prototype observation 136.,23.032313,72.512879,2026-07-11T12:00:00Z
+bulk-report-00137,bulk-00137,u184,,Garbage reported near Navrangpura; clustered prototype observation 137.,23.040949,72.557999,2026-07-06T11:00:00Z
+bulk-report-00138,bulk-00138,u185,,Waterlogging reported near Gota; clustered prototype observation 138.,23.120234,72.555038,2026-08-11T06:00:00Z
+bulk-report-00139,bulk-00139,u186,,Manhole reported near Bopal; clustered prototype observation 139.,23.036333,72.472322,2026-07-16T10:00:00Z
+bulk-report-00140,bulk-00140,u187,,Streetlight reported near Vatva GIDC; clustered prototype observation 140.,22.962322,72.653070,2026-07-05T14:00:00Z
+bulk-report-00141,bulk-00141,u188,,Sewage reported near Vastral; clustered prototype observation 141.,23.026460,72.666913,2026-08-19T03:00:00Z
+bulk-report-00142,bulk-00142,u189,,Fallen Tree reported near Nikol; clustered prototype observation 142.,23.045959,72.636550,2026-08-11T00:00:00Z
+bulk-report-00143,bulk-00143,u190,,Other reported near Naranpura; clustered prototype observation 143.,23.072175,72.567102,2026-08-04T15:00:00Z
+bulk-report-00144,bulk-00144,u191,,Pothole reported near Sector 7 - Chandkheda; clustered prototype observation 144.,23.116659,72.592419,2026-07-11T09:00:00Z
+bulk-report-00145,bulk-00145,u192,,Road Damage reported near Maninagar; clustered prototype observation 145.,22.999050,72.623003,2026-07-05T00:00:00Z
+bulk-report-00146,bulk-00146,u193,,Garbage reported near Satellite; clustered prototype observation 146.,23.035358,72.514293,2026-08-18T04:00:00Z
+bulk-report-00147,bulk-00147,u194,,Waterlogging reported near Navrangpura; clustered prototype observation 147.,23.043624,72.560337,2026-07-28T15:00:00Z
+bulk-report-00148,bulk-00148,u195,,Manhole reported near Gota; clustered prototype observation 148.,23.121954,72.554497,2026-07-16T23:00:00Z
+bulk-report-00149,bulk-00149,u196,,Streetlight reported near Bopal; clustered prototype observation 149.,23.038931,72.473631,2026-07-24T20:00:00Z
+bulk-report-00150,bulk-00150,u197,,Sewage reported near Vatva GIDC; clustered prototype observation 150.,22.963965,72.654202,2026-07-14T09:00:00Z
+bulk-report-00151,bulk-00151,u198,,Fallen Tree reported near Vastral; clustered prototype observation 151.,23.030563,72.667036,2026-08-17T00:00:00Z
+bulk-report-00152,bulk-00152,u199,,Other reported near Nikol; clustered prototype observation 152.,23.048804,72.639285,2026-08-06T14:00:00Z
+bulk-report-00153,bulk-00153,u200,,Pothole reported near Naranpura; clustered prototype observation 153.,23.074016,72.569104,2026-07-07T13:00:00Z
+bulk-report-00154,bulk-00154,u001,,Road Damage reported near Sector 7 - Chandkheda; clustered prototype observation 154.,23.108415,72.582774,2026-07-18T09:00:00Z
+bulk-report-00155,bulk-00155,u002,,Garbage reported near Maninagar; clustered prototype observation 155.,22.991444,72.614675,2026-08-01T11:00:00Z
+bulk-report-00156,bulk-00156,u003,,Waterlogging reported near Satellite; clustered prototype observation 156.,23.025374,72.506275,2026-07-20T15:00:00Z
+bulk-report-00157,bulk-00157,u004,,Manhole reported near Navrangpura; clustered prototype observation 157.,23.036061,72.552092,2026-07-11T00:00:00Z
+bulk-report-00158,bulk-00158,u105,,Streetlight reported near Gota; clustered prototype observation 158.,23.112495,72.548484,2026-07-15T00:00:00Z
+bulk-report-00159,bulk-00159,u106,,Sewage reported near Bopal; clustered prototype observation 159.,23.029859,72.465176,2026-07-30T22:00:00Z
+bulk-report-00160,bulk-00160,u107,,Fallen Tree reported near Vatva GIDC; clustered prototype observation 160.,22.954166,72.645746,2026-07-19T14:00:00Z
+bulk-report-00161,bulk-00161,u108,,Other reported near Vastral; clustered prototype observation 161.,23.021169,72.661872,2026-07-05T10:00:00Z
+bulk-report-00162,bulk-00162,u109,,Pothole reported near Nikol; clustered prototype observation 162.,23.040741,72.631448,2026-07-06T10:00:00Z
+bulk-report-00163,bulk-00163,u110,,Road Damage reported near Naranpura; clustered prototype observation 163.,23.067021,72.559576,2026-07-20T19:00:00Z
+bulk-report-00164,bulk-00164,u111,,Garbage reported near Sector 7 - Chandkheda; clustered prototype observation 164.,23.110103,72.584022,2026-07-11T05:00:00Z
+bulk-report-00165,bulk-00165,u112,,Waterlogging reported near Maninagar; clustered prototype observation 165.,22.993374,72.617302,2026-07-14T06:00:00Z
+bulk-report-00166,bulk-00166,u113,,Manhole reported near Satellite; clustered prototype observation 166.,23.028618,72.507990,2026-07-20T11:00:00Z
+bulk-report-00167,bulk-00167,u114,,Streetlight reported near Navrangpura; clustered prototype observation 167.,23.037221,72.553755,2026-08-02T17:00:00Z
+bulk-report-00168,bulk-00168,u115,,Sewage reported near Gota; clustered prototype observation 168.,23.114887,72.551181,2026-08-18T13:00:00Z
+bulk-report-00169,bulk-00169,u116,,Fallen Tree reported near Bopal; clustered prototype observation 169.,23.032456,72.467885,2026-07-07T10:00:00Z
+bulk-report-00170,bulk-00170,u117,,Other reported near Vatva GIDC; clustered prototype observation 170.,22.958264,72.647471,2026-08-09T17:00:00Z
+bulk-report-00171,bulk-00171,u118,,Pothole reported near Vastral; clustered prototype observation 171.,23.022653,72.662534,2026-08-02T19:00:00Z
+bulk-report-00172,bulk-00172,u119,,Road Damage reported near Nikol; clustered prototype observation 172.,23.042901,72.633277,2026-07-16T03:00:00Z
+bulk-report-00173,bulk-00173,u120,,Garbage reported near Naranpura; clustered prototype observation 173.,23.066967,72.564005,2026-08-14T12:00:00Z
+bulk-report-00174,bulk-00174,u121,,Waterlogging reported near Sector 7 - Chandkheda; clustered prototype observation 174.,23.111689,72.586689,2026-07-19T15:00:00Z
+bulk-report-00175,bulk-00175,u122,,Manhole reported near Maninagar; clustered prototype observation 175.,22.994916,72.619646,2026-08-10T18:00:00Z
+bulk-report-00176,bulk-00176,u123,,Streetlight reported near Satellite; clustered prototype observation 176.,23.028325,72.510222,2026-07-20T04:00:00Z
+bulk-report-00177,bulk-00177,u124,,Sewage reported near Navrangpura; clustered prototype observation 177.,23.039449,72.555832,2026-07-13T07:00:00Z
+bulk-report-00178,bulk-00178,u125,,Fallen Tree reported near Gota; clustered prototype observation 178.,23.118044,72.551850,2026-07-06T03:00:00Z
+bulk-report-00179,bulk-00179,u126,,Other reported near Bopal; clustered prototype observation 179.,23.034366,72.471313,2026-07-31T23:00:00Z
+bulk-report-00180,bulk-00180,u127,,Pothole reported near Vatva GIDC; clustered prototype observation 180.,22.961113,72.650412,2026-08-11T03:00:00Z
+bulk-report-00181,bulk-00181,u128,,Road Damage reported near Vastral; clustered prototype observation 181.,23.024450,72.665060,2026-07-11T21:00:00Z
+bulk-report-00182,bulk-00182,u129,,Garbage reported near Nikol; clustered prototype observation 182.,23.044569,72.635203,2026-07-30T03:00:00Z
+bulk-report-00183,bulk-00183,u130,,Waterlogging reported near Naranpura; clustered prototype observation 183.,23.070507,72.564947,2026-07-23T11:00:00Z
+bulk-report-00184,bulk-00184,u131,,Manhole reported near Sector 7 - Chandkheda; clustered prototype observation 184.,23.113885,72.589952,2026-08-16T13:00:00Z
+bulk-report-00185,bulk-00185,u132,,Streetlight reported near Maninagar; clustered prototype observation 185.,22.997662,72.619504,2026-08-08T21:00:00Z
+bulk-report-00186,bulk-00186,u133,,Sewage reported near Satellite; clustered prototype observation 186.,23.032064,72.511421,2026-08-12T11:00:00Z
+bulk-report-00187,bulk-00187,u134,,Fallen Tree reported near Navrangpura; clustered prototype observation 187.,23.040094,72.557759,2026-08-05T13:00:00Z
+bulk-report-00188,bulk-00188,u135,,Other reported near Gota; clustered prototype observation 188.,23.121245,72.553826,2026-08-06T19:00:00Z
+bulk-report-00189,bulk-00189,u136,,Pothole reported near Bopal; clustered prototype observation 189.,23.036173,72.472811,2026-08-02T18:00:00Z
+bulk-report-00190,bulk-00190,u137,,Road Damage reported near Vatva GIDC; clustered prototype observation 190.,22.962544,72.652391,2026-08-03T02:00:00Z
+bulk-report-00191,bulk-00191,u138,,Garbage reported near Vastral; clustered prototype observation 191.,23.027617,72.667133,2026-08-06T09:00:00Z
+bulk-report-00192,bulk-00192,u139,,Waterlogging reported near Nikol; clustered prototype observation 192.,23.048061,72.636990,2026-07-08T04:00:00Z
+bulk-report-00193,bulk-00193,u140,,Manhole reported near Naranpura; clustered prototype observation 193.,23.071929,72.567481,2026-08-18T11:00:00Z
+bulk-report-00194,bulk-00194,u141,,Streetlight reported near Sector 7 - Chandkheda; clustered prototype observation 194.,23.115205,72.591574,2026-07-22T00:00:00Z
+bulk-report-00195,bulk-00195,u142,,Sewage reported near Maninagar; clustered prototype observation 195.,22.999259,72.623563,2026-07-12T15:00:00Z
+bulk-report-00196,bulk-00196,u143,,Fallen Tree reported near Satellite; clustered prototype observation 196.,23.034684,72.513932,2026-07-18T14:00:00Z
+bulk-report-00197,bulk-00197,u144,,Other reported near Navrangpura; clustered prototype observation 197.,23.043231,72.559674,2026-07-28T06:00:00Z
+bulk-report-00198,bulk-00198,u145,,Pothole reported near Gota; clustered prototype observation 198.,23.121210,72.555840,2026-08-04T08:00:00Z
+bulk-report-00199,bulk-00199,u146,,Road Damage reported near Bopal; clustered prototype observation 199.,23.039113,72.474276,2026-07-15T03:00:00Z
+bulk-report-00200,bulk-00200,u147,,Garbage reported near Vatva GIDC; clustered prototype observation 200.,22.964067,72.653539,2026-07-10T13:00:00Z
+bulk-report-00201,bulk-00201,u148,,Waterlogging reported near Vastral; clustered prototype observation 201.,23.029831,72.666896,2026-07-08T15:00:00Z
+bulk-report-00202,bulk-00202,u149,,Manhole reported near Nikol; clustered prototype observation 202.,23.048317,72.638650,2026-08-06T22:00:00Z
+bulk-report-00203,bulk-00203,u150,,Streetlight reported near Naranpura; clustered prototype observation 203.,23.075251,72.568692,2026-07-21T09:00:00Z
+bulk-report-00204,bulk-00204,u151,,Sewage reported near Sector 7 - Chandkheda; clustered prototype observation 204.,23.107948,72.582810,2026-07-09T16:00:00Z
+bulk-report-00205,bulk-00205,u152,,Fallen Tree reported near Maninagar; clustered prototype observation 205.,22.990901,72.615620,2026-07-31T23:00:00Z
+bulk-report-00206,bulk-00206,u153,,Other reported near Satellite; clustered prototype observation 206.,23.027314,72.504193,2026-08-08T01:00:00Z
+bulk-report-00207,bulk-00207,u154,,Pothole reported near Navrangpura; clustered prototype observation 207.,23.036130,72.551860,2026-07-20T10:00:00Z
+bulk-report-00208,bulk-00208,u155,,Road Damage reported near Gota; clustered prototype observation 208.,23.113104,72.548012,2026-08-16T19:00:00Z
+bulk-report-00209,bulk-00209,u156,,Garbage reported near Bopal; clustered prototype observation 209.,23.031518,72.466710,2026-08-16T21:00:00Z
+bulk-report-00210,bulk-00210,u157,,Waterlogging reported near Vatva GIDC; clustered prototype observation 210.,22.955793,72.646454,2026-08-07T12:00:00Z
+bulk-report-00211,bulk-00211,u158,,Manhole reported near Vastral; clustered prototype observation 211.,23.020757,72.661513,2026-07-26T13:00:00Z
+bulk-report-00212,bulk-00212,u159,,Streetlight reported near Nikol; clustered prototype observation 212.,23.040973,72.631327,2026-08-02T19:00:00Z
+bulk-report-00213,bulk-00213,u160,,Sewage reported near Naranpura; clustered prototype observation 213.,23.066221,72.561933,2026-08-12T19:00:00Z
+bulk-report-00214,bulk-00214,u161,,Fallen Tree reported near Sector 7 - Chandkheda; clustered prototype observation 214.,23.111273,72.585079,2026-08-14T20:00:00Z
+bulk-report-00215,bulk-00215,u162,,Other reported near Maninagar; clustered prototype observation 215.,22.993639,72.615400,2026-08-03T14:00:00Z
+bulk-report-00216,bulk-00216,u163,,Pothole reported near Satellite; clustered prototype observation 216.,23.029662,72.508222,2026-07-24T09:00:00Z
+bulk-report-00217,bulk-00217,u164,,Road Damage reported near Navrangpura; clustered prototype observation 217.,23.037196,72.553367,2026-07-22T05:00:00Z
+bulk-report-00218,bulk-00218,u165,,Garbage reported near Gota; clustered prototype observation 218.,23.115367,72.550447,2026-07-21T07:00:00Z
+bulk-report-00219,bulk-00219,u166,,Waterlogging reported near Bopal; clustered prototype observation 219.,23.032112,72.467495,2026-07-30T05:00:00Z
+bulk-report-00220,bulk-00220,u167,,Manhole reported near Vatva GIDC; clustered prototype observation 220.,22.958031,72.648212,2026-08-10T11:00:00Z
+bulk-report-00221,bulk-00221,u168,,Streetlight reported near Vastral; clustered prototype observation 221.,23.022977,72.661332,2026-07-09T16:00:00Z
+bulk-report-00222,bulk-00222,u169,,Sewage reported near Nikol; clustered prototype observation 222.,23.042724,72.633043,2026-07-23T14:00:00Z
+bulk-report-00223,bulk-00223,u170,,Fallen Tree reported near Naranpura; clustered prototype observation 223.,23.068069,72.562077,2026-07-08T01:00:00Z
+bulk-report-00224,bulk-00224,u171,,Other reported near Sector 7 - Chandkheda; clustered prototype observation 224.,23.113736,72.585952,2026-07-31T09:00:00Z
+bulk-report-00225,bulk-00225,u172,,Pothole reported near Maninagar; clustered prototype observation 225.,22.994881,72.618301,2026-07-19T12:00:00Z
+bulk-report-00226,bulk-00226,u173,,Road Damage reported near Satellite; clustered prototype observation 226.,23.029709,72.510686,2026-07-05T14:00:00Z
+bulk-report-00227,bulk-00227,u174,,Garbage reported near Navrangpura; clustered prototype observation 227.,23.040316,72.555471,2026-07-10T18:00:00Z
+bulk-report-00228,bulk-00228,u175,,Waterlogging reported near Gota; clustered prototype observation 228.,23.118500,72.552386,2026-08-11T08:00:00Z
+bulk-report-00229,bulk-00229,u176,,Manhole reported near Bopal; clustered prototype observation 229.,23.034443,72.471167,2026-07-06T07:00:00Z
+bulk-report-00230,bulk-00230,u177,,Streetlight reported near Vatva GIDC; clustered prototype observation 230.,22.959722,72.651350,2026-07-05T15:00:00Z
+bulk-report-00231,bulk-00231,u178,,Sewage reported near Vastral; clustered prototype observation 231.,23.025513,72.665055,2026-08-18T19:00:00Z
+bulk-report-00232,bulk-00232,u179,,Fallen Tree reported near Nikol; clustered prototype observation 232.,23.045107,72.634063,2026-07-14T19:00:00Z
+bulk-report-00233,bulk-00233,u180,,Other reported near Naranpura; clustered prototype observation 233.,23.069475,72.564730,2026-08-08T12:00:00Z
+bulk-report-00234,bulk-00234,u181,,Pothole reported near Sector 7 - Chandkheda; clustered prototype observation 234.,23.114543,72.588912,2026-07-05T14:00:00Z
+bulk-report-00235,bulk-00235,u182,,Road Damage reported near Maninagar; clustered prototype observation 235.,22.998154,72.619736,2026-08-06T00:00:00Z
+bulk-report-00236,bulk-00236,u183,,Garbage reported near Satellite; clustered prototype observation 236.,23.032501,72.511614,2026-07-18T03:00:00Z
+bulk-report-00237,bulk-00237,u184,,Waterlogging reported near Navrangpura; clustered prototype observation 237.,23.041597,72.558131,2026-07-30T07:00:00Z
+bulk-report-00238,bulk-00238,u185,,Manhole reported near Gota; clustered prototype observation 238.,23.119523,72.553905,2026-08-12T07:00:00Z
+bulk-report-00239,bulk-00239,u186,,Streetlight reported near Bopal; clustered prototype observation 239.,23.037558,72.472851,2026-07-11T08:00:00Z
+bulk-report-00240,bulk-00240,u187,,Sewage reported near Vatva GIDC; clustered prototype observation 240.,22.962331,72.651916,2026-07-10T22:00:00Z
+bulk-report-00241,bulk-00241,u188,,Fallen Tree reported near Vastral; clustered prototype observation 241.,23.025904,72.665624,2026-08-01T14:00:00Z
+bulk-report-00242,bulk-00242,u189,,Other reported near Nikol; clustered prototype observation 242.,23.046920,72.636752,2026-07-20T17:00:00Z
+bulk-report-00243,bulk-00243,u190,,Pothole reported near Naranpura; clustered prototype observation 243.,23.070786,72.567350,2026-07-07T00:00:00Z
+bulk-report-00244,bulk-00244,u191,,Road Damage reported near Sector 7 - Chandkheda; clustered prototype observation 244.,23.116249,72.590928,2026-08-15T07:00:00Z
+bulk-report-00245,bulk-00245,u192,,Garbage reported near Maninagar; clustered prototype observation 245.,22.999120,72.622686,2026-07-23T13:00:00Z
+bulk-report-00246,bulk-00246,u193,,Waterlogging reported near Satellite; clustered prototype observation 246.,23.034816,72.514573,2026-08-18T22:00:00Z
+bulk-report-00247,bulk-00247,u194,,Manhole reported near Navrangpura; clustered prototype observation 247.,23.043747,72.560492,2026-07-16T02:00:00Z
+bulk-report-00248,bulk-00248,u195,,Streetlight reported near Gota; clustered prototype observation 248.,23.122297,72.556525,2026-07-07T06:00:00Z
+bulk-report-00249,bulk-00249,u196,,Sewage reported near Bopal; clustered prototype observation 249.,23.038870,72.474907,2026-07-31T02:00:00Z
+bulk-report-00250,bulk-00250,u197,,Fallen Tree reported near Vatva GIDC; clustered prototype observation 250.,22.963191,72.654176,2026-08-02T13:00:00Z
+bulk-report-00251,bulk-00251,u198,,Other reported near Vastral; clustered prototype observation 251.,23.028689,72.668810,2026-08-18T07:00:00Z
+bulk-report-00252,bulk-00252,u199,,Pothole reported near Nikol; clustered prototype observation 252.,23.048528,72.639457,2026-07-15T05:00:00Z
+bulk-report-00253,bulk-00253,u200,,Road Damage reported near Naranpura; clustered prototype observation 253.,23.074245,72.569162,2026-08-06T06:00:00Z
+bulk-report-00254,bulk-00254,u001,,Garbage reported near Sector 7 - Chandkheda; clustered prototype observation 254.,23.108229,72.582869,2026-08-11T06:00:00Z
+bulk-report-00255,bulk-00255,u002,,Waterlogging reported near Maninagar; clustered prototype observation 255.,22.991471,72.614255,2026-08-14T12:00:00Z
+bulk-report-00256,bulk-00256,u003,,Manhole reported near Satellite; clustered prototype observation 256.,23.025535,72.506224,2026-08-05T19:00:00Z
+bulk-report-00257,bulk-00257,u004,,Streetlight reported near Navrangpura; clustered prototype observation 257.,23.036014,72.552430,2026-08-05T14:00:00Z
+bulk-report-00258,bulk-00258,u105,,Sewage reported near Gota; clustered prototype observation 258.,23.114780,72.547335,2026-07-11T03:00:00Z
+bulk-report-00259,bulk-00259,u106,,Fallen Tree reported near Bopal; clustered prototype observation 259.,23.030459,72.466524,2026-08-13T21:00:00Z
+bulk-report-00260,bulk-00260,u107,,Other reported near Vatva GIDC; clustered prototype observation 260.,22.955904,72.646407,2026-07-09T11:00:00Z
+bulk-report-00261,bulk-00261,u108,,Pothole reported near Vastral; clustered prototype observation 261.,23.021352,72.661247,2026-07-21T06:00:00Z
+bulk-report-00262,bulk-00262,u109,,Road Damage reported near Nikol; clustered prototype observation 262.,23.041025,72.631236,2026-08-16T12:00:00Z
+bulk-report-00263,bulk-00263,u110,,Garbage reported near Naranpura; clustered prototype observation 263.,23.066323,72.561884,2026-08-04T16:00:00Z
+bulk-report-00264,bulk-00264,u111,,Waterlogging reported near Sector 7 - Chandkheda; clustered prototype observation 264.,23.110134,72.586251,2026-08-13T14:00:00Z
+bulk-report-00265,bulk-00265,u112,,Manhole reported near Maninagar; clustered prototype observation 265.,22.992278,72.616407,2026-07-05T20:00:00Z
+bulk-report-00266,bulk-00266,u113,,Streetlight reported near Satellite; clustered prototype observation 266.,23.027775,72.508798,2026-08-19T04:00:00Z
+bulk-report-00267,bulk-00267,u114,,Sewage reported near Navrangpura; clustered prototype observation 267.,23.037802,72.553068,2026-07-16T09:00:00Z
+bulk-report-00268,bulk-00268,u115,,Fallen Tree reported near Gota; clustered prototype observation 268.,23.116398,72.549146,2026-07-31T14:00:00Z
+bulk-report-00269,bulk-00269,u116,,Other reported near Bopal; clustered prototype observation 269.,23.032807,72.468404,2026-08-02T10:00:00Z
+bulk-report-00270,bulk-00270,u117,,Pothole reported near Vatva GIDC; clustered prototype observation 270.,22.958261,72.647582,2026-07-21T12:00:00Z
+bulk-report-00271,bulk-00271,u118,,Road Damage reported near Vastral; clustered prototype observation 271.,23.022302,72.661907,2026-07-20T09:00:00Z
+bulk-report-00272,bulk-00272,u119,,Garbage reported near Nikol; clustered prototype observation 272.,23.042880,72.632536,2026-08-03T07:00:00Z
+bulk-report-00273,bulk-00273,u120,,Waterlogging reported near Naranpura; clustered prototype observation 273.,23.067833,72.563832,2026-07-14T13:00:00Z
+bulk-report-00274,bulk-00274,u121,,Manhole reported near Sector 7 - Chandkheda; clustered prototype observation 274.,23.112315,72.587124,2026-08-08T09:00:00Z
+bulk-report-00275,bulk-00275,u122,,Streetlight reported near Maninagar; clustered prototype observation 275.,22.995558,72.618537,2026-07-05T13:00:00Z
+bulk-report-00276,bulk-00276,u123,,Sewage reported near Satellite; clustered prototype observation 276.,23.029128,72.509400,2026-08-06T18:00:00Z
+bulk-report-00277,bulk-00277,u124,,Fallen Tree reported near Navrangpura; clustered prototype observation 277.,23.040450,72.556309,2026-08-07T19:00:00Z
+bulk-report-00278,bulk-00278,u125,,Other reported near Gota; clustered prototype observation 278.,23.118502,72.551725,2026-07-06T10:00:00Z
+bulk-report-00279,bulk-00279,u126,,Pothole reported near Bopal; clustered prototype observation 279.,23.034490,72.469356,2026-08-07T17:00:00Z
+bulk-report-00280,bulk-00280,u127,,Road Damage reported near Vatva GIDC; clustered prototype observation 280.,22.961296,72.649603,2026-08-16T17:00:00Z
+bulk-report-00281,bulk-00281,u128,,Garbage reported near Vastral; clustered prototype observation 281.,23.023546,72.664368,2026-07-11T03:00:00Z
+bulk-report-00282,bulk-00282,u129,,Waterlogging reported near Nikol; clustered prototype observation 282.,23.044203,72.636269,2026-08-12T01:00:00Z
+bulk-report-00283,bulk-00283,u130,,Manhole reported near Naranpura; clustered prototype observation 283.,23.070200,72.564466,2026-07-08T18:00:00Z
+bulk-report-00284,bulk-00284,u131,,Streetlight reported near Sector 7 - Chandkheda; clustered prototype observation 284.,23.114440,72.588207,2026-07-14T12:00:00Z
+bulk-report-00285,bulk-00285,u132,,Sewage reported near Maninagar; clustered prototype observation 285.,22.997003,72.620732,2026-07-30T10:00:00Z
+bulk-report-00286,bulk-00286,u133,,Fallen Tree reported near Satellite; clustered prototype observation 286.,23.032209,72.511014,2026-08-04T06:00:00Z
+bulk-report-00287,bulk-00287,u134,,Other reported near Navrangpura; clustered prototype observation 287.,23.041997,72.557541,2026-07-20T20:00:00Z
+bulk-report-00288,bulk-00288,u135,,Pothole reported near Gota; clustered prototype observation 288.,23.121343,72.554571,2026-07-18T04:00:00Z
+bulk-report-00289,bulk-00289,u136,,Road Damage reported near Bopal; clustered prototype observation 289.,23.037453,72.471094,2026-07-22T03:00:00Z
+bulk-report-00290,bulk-00290,u137,,Garbage reported near Vatva GIDC; clustered prototype observation 290.,22.960597,72.652468,2026-08-04T03:00:00Z
+bulk-report-00291,bulk-00291,u138,,Waterlogging reported near Vastral; clustered prototype observation 291.,23.027284,72.667459,2026-07-12T09:00:00Z
+bulk-report-00292,bulk-00292,u139,,Manhole reported near Nikol; clustered prototype observation 292.,23.046691,72.636437,2026-07-21T20:00:00Z
+bulk-report-00293,bulk-00293,u140,,Streetlight reported near Naranpura; clustered prototype observation 293.,23.071192,72.566600,2026-07-06T04:00:00Z
+bulk-report-00294,bulk-00294,u141,,Sewage reported near Sector 7 - Chandkheda; clustered prototype observation 294.,23.117046,72.590845,2026-08-03T09:00:00Z
+bulk-report-00295,bulk-00295,u142,,Fallen Tree reported near Maninagar; clustered prototype observation 295.,22.999304,72.623440,2026-08-12T20:00:00Z
+bulk-report-00296,bulk-00296,u143,,Other reported near Satellite; clustered prototype observation 296.,23.033712,72.513876,2026-07-30T02:00:00Z
+bulk-report-00297,bulk-00297,u144,,Pothole reported near Navrangpura; clustered prototype observation 297.,23.042342,72.559525,2026-07-08T13:00:00Z
+bulk-report-00298,bulk-00298,u145,,Road Damage reported near Gota; clustered prototype observation 298.,23.121742,72.557153,2026-07-26T07:00:00Z
+bulk-report-00299,bulk-00299,u146,,Garbage reported near Bopal; clustered prototype observation 299.,23.039702,72.472316,2026-08-03T15:00:00Z
+bulk-report-00300,bulk-00300,u147,,Waterlogging reported near Vatva GIDC; clustered prototype observation 300.,22.964926,72.654123,2026-07-05T17:00:00Z
+bulk-report-00301,bulk-00301,u148,,Manhole reported near Vastral; clustered prototype observation 301.,23.027537,72.670089,2026-07-19T15:00:00Z
+bulk-report-00302,bulk-00302,u149,,Streetlight reported near Nikol; clustered prototype observation 302.,23.050173,72.638710,2026-07-06T08:00:00Z
+bulk-report-00303,bulk-00303,u150,,Sewage reported near Naranpura; clustered prototype observation 303.,23.074414,72.567782,2026-08-11T04:00:00Z
+bulk-report-00304,bulk-00304,u151,,Fallen Tree reported near Sector 7 - Chandkheda; clustered prototype observation 304.,23.109120,72.583469,2026-07-14T11:00:00Z
+bulk-report-00305,bulk-00305,u152,,Other reported near Maninagar; clustered prototype observation 305.,22.990636,72.615060,2026-08-16T05:00:00Z
+bulk-report-00306,bulk-00306,u153,,Pothole reported near Satellite; clustered prototype observation 306.,23.026015,72.506062,2026-07-26T07:00:00Z
+bulk-report-00307,bulk-00307,u154,,Road Damage reported near Navrangpura; clustered prototype observation 307.,23.034133,72.552879,2026-08-04T22:00:00Z
+bulk-report-00308,bulk-00308,u155,,Garbage reported near Gota; clustered prototype observation 308.,23.113935,72.548405,2026-08-07T02:00:00Z
+bulk-report-00309,bulk-00309,u156,,Waterlogging reported near Bopal; clustered prototype observation 309.,23.032316,72.464725,2026-08-18T21:00:00Z
+bulk-report-00310,bulk-00310,u157,,Manhole reported near Vatva GIDC; clustered prototype observation 310.,22.955710,72.645981,2026-07-27T05:00:00Z
+bulk-report-00311,bulk-00311,u158,,Streetlight reported near Vastral; clustered prototype observation 311.,23.020141,72.660978,2026-07-10T16:00:00Z
+bulk-report-00312,bulk-00312,u159,,Sewage reported near Nikol; clustered prototype observation 312.,23.041395,72.631917,2026-07-15T20:00:00Z
+bulk-report-00313,bulk-00313,u160,,Fallen Tree reported near Naranpura; clustered prototype observation 313.,23.066792,72.561360,2026-07-31T00:00:00Z
+bulk-report-00314,bulk-00314,u161,,Other reported near Sector 7 - Chandkheda; clustered prototype observation 314.,23.110253,72.585707,2026-07-26T20:00:00Z
+bulk-report-00315,bulk-00315,u162,,Pothole reported near Maninagar; clustered prototype observation 315.,22.993947,72.615742,2026-08-09T04:00:00Z
+bulk-report-00316,bulk-00316,u163,,Road Damage reported near Satellite; clustered prototype observation 316.,23.028085,72.507600,2026-07-05T23:00:00Z
+bulk-report-00317,bulk-00317,u164,,Garbage reported near Navrangpura; clustered prototype observation 317.,23.039089,72.554517,2026-07-07T19:00:00Z
+bulk-report-00318,bulk-00318,u165,,Waterlogging reported near Gota; clustered prototype observation 318.,23.115857,72.549670,2026-08-12T02:00:00Z
+bulk-report-00319,bulk-00319,u166,,Manhole reported near Bopal; clustered prototype observation 319.,23.032056,72.468987,2026-08-13T03:00:00Z
+bulk-report-00320,bulk-00320,u167,,Streetlight reported near Vatva GIDC; clustered prototype observation 320.,22.959240,72.648154,2026-07-21T15:00:00Z
+bulk-report-00321,bulk-00321,u168,,Sewage reported near Vastral; clustered prototype observation 321.,23.022894,72.663703,2026-07-15T03:00:00Z
+bulk-report-00322,bulk-00322,u169,,Fallen Tree reported near Nikol; clustered prototype observation 322.,23.042828,72.631664,2026-07-26T04:00:00Z
+bulk-report-00323,bulk-00323,u170,,Other reported near Naranpura; clustered prototype observation 323.,23.067468,72.563841,2026-07-08T12:00:00Z
+bulk-report-00324,bulk-00324,u171,,Pothole reported near Sector 7 - Chandkheda; clustered prototype observation 324.,23.112220,72.586445,2026-07-06T03:00:00Z
+bulk-report-00325,bulk-00325,u172,,Road Damage reported near Maninagar; clustered prototype observation 325.,22.994724,72.618626,2026-07-12T08:00:00Z
+bulk-report-00326,bulk-00326,u173,,Garbage reported near Satellite; clustered prototype observation 326.,23.029284,72.509981,2026-07-16T12:00:00Z
+bulk-report-00327,bulk-00327,u174,,Waterlogging reported near Navrangpura; clustered prototype observation 327.,23.039567,72.554917,2026-07-10T14:00:00Z
+bulk-report-00328,bulk-00328,u175,,Manhole reported near Gota; clustered prototype observation 328.,23.118152,72.551326,2026-08-08T14:00:00Z
+bulk-report-00329,bulk-00329,u176,,Streetlight reported near Bopal; clustered prototype observation 329.,23.034635,72.470021,2026-07-11T16:00:00Z
+bulk-report-00330,bulk-00330,u177,,Sewage reported near Vatva GIDC; clustered prototype observation 330.,22.959613,72.650674,2026-07-24T03:00:00Z
+bulk-report-00331,bulk-00331,u178,,Fallen Tree reported near Vastral; clustered prototype observation 331.,23.024620,72.665363,2026-07-30T01:00:00Z
+bulk-report-00332,bulk-00332,u179,,Other reported near Nikol; clustered prototype observation 332.,23.044262,72.635495,2026-08-13T01:00:00Z
+bulk-report-00333,bulk-00333,u180,,Pothole reported near Naranpura; clustered prototype observation 333.,23.069227,72.564276,2026-07-16T11:00:00Z
+bulk-report-00334,bulk-00334,u181,,Road Damage reported near Sector 7 - Chandkheda; clustered prototype observation 334.,23.114183,72.589374,2026-07-10T09:00:00Z
+bulk-report-00335,bulk-00335,u182,,Garbage reported near Maninagar; clustered prototype observation 335.,22.998766,72.619629,2026-07-08T19:00:00Z
+bulk-report-00336,bulk-00336,u183,,Waterlogging reported near Satellite; clustered prototype observation 336.,23.032009,72.511524,2026-07-30T09:00:00Z
+bulk-report-00337,bulk-00337,u184,,Manhole reported near Navrangpura; clustered prototype observation 337.,23.042260,72.557709,2026-08-11T03:00:00Z
+bulk-report-00338,bulk-00338,u185,,Streetlight reported near Gota; clustered prototype observation 338.,23.121254,72.553731,2026-07-17T18:00:00Z
+bulk-report-00339,bulk-00339,u186,,Sewage reported near Bopal; clustered prototype observation 339.,23.035862,72.471369,2026-07-30T18:00:00Z
+bulk-report-00340,bulk-00340,u187,,Fallen Tree reported near Vatva GIDC; clustered prototype observation 340.,22.960975,72.652516,2026-07-29T16:00:00Z
+bulk-report-00341,bulk-00341,u188,,Other reported near Vastral; clustered prototype observation 341.,23.027030,72.665512,2026-08-09T01:00:00Z
+bulk-report-00342,bulk-00342,u189,,Pothole reported near Nikol; clustered prototype observation 342.,23.047031,72.636798,2026-08-10T14:00:00Z
+bulk-report-00343,bulk-00343,u190,,Road Damage reported near Naranpura; clustered prototype observation 343.,23.071569,72.566791,2026-08-19T11:00:00Z
+bulk-report-00344,bulk-00344,u191,,Garbage reported near Sector 7 - Chandkheda; clustered prototype observation 344.,23.116451,72.591003,2026-07-10T05:00:00Z
+bulk-report-00345,bulk-00345,u192,,Waterlogging reported near Maninagar; clustered prototype observation 345.,22.999232,72.622823,2026-08-07T16:00:00Z
+bulk-report-00346,bulk-00346,u193,,Manhole reported near Satellite; clustered prototype observation 346.,23.034670,72.513330,2026-08-05T08:00:00Z
+bulk-report-00347,bulk-00347,u194,,Streetlight reported near Navrangpura; clustered prototype observation 347.,23.042852,72.559498,2026-07-26T00:00:00Z
+bulk-report-00348,bulk-00348,u195,,Sewage reported near Gota; clustered prototype observation 348.,23.120792,72.556347,2026-07-23T10:00:00Z
+bulk-report-00349,bulk-00349,u196,,Fallen Tree reported near Bopal; clustered prototype observation 349.,23.039551,72.473090,2026-07-16T06:00:00Z
+bulk-report-00350,bulk-00350,u197,,Other reported near Vatva GIDC; clustered prototype observation 350.,22.964108,72.653293,2026-07-20T09:00:00Z
+bulk-report-00351,bulk-00351,u198,,Pothole reported near Vastral; clustered prototype observation 351.,23.027792,72.668555,2026-08-07T01:00:00Z
+bulk-report-00352,bulk-00352,u199,,Road Damage reported near Nikol; clustered prototype observation 352.,23.049513,72.638956,2026-08-02T17:00:00Z
+bulk-report-00353,bulk-00353,u200,,Garbage reported near Naranpura; clustered prototype observation 353.,23.073202,72.568199,2026-07-14T23:00:00Z
+bulk-report-00354,bulk-00354,u001,,Waterlogging reported near Sector 7 - Chandkheda; clustered prototype observation 354.,23.110343,72.582693,2026-08-17T08:00:00Z
+bulk-report-00355,bulk-00355,u002,,Manhole reported near Maninagar; clustered prototype observation 355.,22.992078,72.615097,2026-07-28T04:00:00Z
+bulk-report-00356,bulk-00356,u003,,Streetlight reported near Satellite; clustered prototype observation 356.,23.025908,72.505336,2026-07-12T09:00:00Z
+bulk-report-00357,bulk-00357,u004,,Sewage reported near Navrangpura; clustered prototype observation 357.,23.035631,72.553541,2026-08-05T23:00:00Z
+bulk-report-00358,bulk-00358,u105,,Fallen Tree reported near Gota; clustered prototype observation 358.,23.112439,72.547712,2026-07-05T13:00:00Z
+bulk-report-00359,bulk-00359,u106,,Other reported near Bopal; clustered prototype observation 359.,23.030956,72.465588,2026-08-04T08:00:00Z
+bulk-report-00360,bulk-00360,u107,,Pothole reported near Vatva GIDC; clustered prototype observation 360.,22.955511,72.646509,2026-08-03T05:00:00Z
+bulk-report-00361,bulk-00361,u108,,Road Damage reported near Vastral; clustered prototype observation 361.,23.021266,72.660354,2026-08-12T12:00:00Z
+bulk-report-00362,bulk-00362,u109,,Garbage reported near Nikol; clustered prototype observation 362.,23.041138,72.631205,2026-07-16T18:00:00Z
+bulk-report-00363,bulk-00363,u110,,Waterlogging reported near Naranpura; clustered prototype observation 363.,23.067306,72.560646,2026-08-15T11:00:00Z
+bulk-report-00364,bulk-00364,u111,,Manhole reported near Sector 7 - Chandkheda; clustered prototype observation 364.,23.111627,72.586120,2026-08-06T17:00:00Z
+bulk-report-00365,bulk-00365,u112,,Streetlight reported near Maninagar; clustered prototype observation 365.,22.993241,72.615745,2026-08-12T19:00:00Z
+bulk-report-00366,bulk-00366,u113,,Sewage reported near Satellite; clustered prototype observation 366.,23.028225,72.508037,2026-07-26T05:00:00Z
+bulk-report-00367,bulk-00367,u114,,Fallen Tree reported near Navrangpura; clustered prototype observation 367.,23.038093,72.553468,2026-08-05T10:00:00Z
+bulk-report-00368,bulk-00368,u115,,Other reported near Gota; clustered prototype observation 368.,23.116420,72.549961,2026-07-24T04:00:00Z
+bulk-report-00369,bulk-00369,u116,,Pothole reported near Bopal; clustered prototype observation 369.,23.033580,72.468563,2026-07-07T19:00:00Z
+bulk-report-00370,bulk-00370,u117,,Road Damage reported near Vatva GIDC; clustered prototype observation 370.,22.958126,72.648163,2026-07-19T01:00:00Z
+bulk-report-00371,bulk-00371,u118,,Garbage reported near Vastral; clustered prototype observation 371.,23.023184,72.664618,2026-07-22T04:00:00Z
+bulk-report-00372,bulk-00372,u119,,Waterlogging reported near Nikol; clustered prototype observation 372.,23.043539,72.634052,2026-07-10T23:00:00Z
+bulk-report-00373,bulk-00373,u120,,Manhole reported near Naranpura; clustered prototype observation 373.,23.068914,72.562856,2026-07-23T11:00:00Z
+bulk-report-00374,bulk-00374,u121,,Streetlight reported near Sector 7 - Chandkheda; clustered prototype observation 374.,23.113512,72.587454,2026-07-12T05:00:00Z
+bulk-report-00375,bulk-00375,u122,,Sewage reported near Maninagar; clustered prototype observation 375.,22.996402,72.618922,2026-07-04T19:00:00Z
+bulk-report-00376,bulk-00376,u123,,Fallen Tree reported near Satellite; clustered prototype observation 376.,23.030482,72.508785,2026-07-08T19:00:00Z
+bulk-report-00377,bulk-00377,u124,,Other reported near Navrangpura; clustered prototype observation 377.,23.040145,72.554499,2026-07-14T11:00:00Z
+bulk-report-00378,bulk-00378,u125,,Pothole reported near Gota; clustered prototype observation 378.,23.118764,72.551826,2026-08-19T08:00:00Z
+bulk-report-00379,bulk-00379,u126,,Road Damage reported near Bopal; clustered prototype observation 379.,23.035490,72.468975,2026-07-24T02:00:00Z
+bulk-report-00380,bulk-00380,u127,,Garbage reported near Vatva GIDC; clustered prototype observation 380.,22.959989,72.649226,2026-08-09T10:00:00Z
+bulk-report-00381,bulk-00381,u128,,Waterlogging reported near Vastral; clustered prototype observation 381.,23.024372,72.665240,2026-08-10T13:00:00Z
+bulk-report-00382,bulk-00382,u129,,Manhole reported near Nikol; clustered prototype observation 382.,23.044779,72.634941,2026-08-03T17:00:00Z
+bulk-report-00383,bulk-00383,u130,,Streetlight reported near Naranpura; clustered prototype observation 383.,23.070185,72.565191,2026-07-26T09:00:00Z
+bulk-report-00384,bulk-00384,u131,,Sewage reported near Sector 7 - Chandkheda; clustered prototype observation 384.,23.114636,72.589310,2026-07-10T18:00:00Z
+bulk-report-00385,bulk-00385,u132,,Fallen Tree reported near Maninagar; clustered prototype observation 385.,22.998095,72.620765,2026-07-18T21:00:00Z
+bulk-report-00386,bulk-00386,u133,,Other reported near Satellite; clustered prototype observation 386.,23.033016,72.513369,2026-08-17T20:00:00Z
+bulk-report-00387,bulk-00387,u134,,Pothole reported near Navrangpura; clustered prototype observation 387.,23.041814,72.558510,2026-07-27T14:00:00Z
+bulk-report-00388,bulk-00388,u135,,Road Damage reported near Gota; clustered prototype observation 388.,23.120541,72.553117,2026-08-09T14:00:00Z
+bulk-report-00389,bulk-00389,u136,,Garbage reported near Bopal; clustered prototype observation 389.,23.037224,72.473207,2026-08-16T11:00:00Z
+bulk-report-00390,bulk-00390,u137,,Waterlogging reported near Vatva GIDC; clustered prototype observation 390.,22.961850,72.651906,2026-07-12T10:00:00Z
+bulk-report-00391,bulk-00391,u138,,Manhole reported near Vastral; clustered prototype observation 391.,23.028499,72.667843,2026-07-30T06:00:00Z
+bulk-report-00392,bulk-00392,u139,,Streetlight reported near Nikol; clustered prototype observation 392.,23.047089,72.638039,2026-08-07T18:00:00Z
+bulk-report-00393,bulk-00393,u140,,Sewage reported near Naranpura; clustered prototype observation 393.,23.071273,72.566756,2026-08-19T03:00:00Z
+bulk-report-00394,bulk-00394,u141,,Fallen Tree reported near Sector 7 - Chandkheda; clustered prototype observation 394.,23.116687,72.591161,2026-08-18T10:00:00Z
+bulk-report-00395,bulk-00395,u142,,Other reported near Maninagar; clustered prototype observation 395.,23.000294,72.622052,2026-07-31T12:00:00Z
+bulk-report-00396,bulk-00396,u143,,Pothole reported near Satellite; clustered prototype observation 396.,23.033726,72.514220,2026-08-05T17:00:00Z
+bulk-report-00397,bulk-00397,u144,,Road Damage reported near Navrangpura; clustered prototype observation 397.,23.043223,72.560704,2026-07-04T23:00:00Z
+bulk-report-00398,bulk-00398,u145,,Garbage reported near Gota; clustered prototype observation 398.,23.122856,72.556094,2026-07-12T03:00:00Z
+bulk-report-00399,bulk-00399,u146,,Waterlogging reported near Bopal; clustered prototype observation 399.,23.038290,72.473802,2026-07-30T11:00:00Z
+bulk-report-00400,bulk-00400,u147,,Manhole reported near Vatva GIDC; clustered prototype observation 400.,22.963530,72.652652,2026-07-29T06:00:00Z
+bulk-report-00401,bulk-00401,u148,,Streetlight reported near Vastral; clustered prototype observation 401.,23.028462,72.668710,2026-07-06T02:00:00Z
+bulk-report-00402,bulk-00402,u149,,Sewage reported near Nikol; clustered prototype observation 402.,23.049278,72.639271,2026-07-26T13:00:00Z
+bulk-report-00403,bulk-00403,u150,,Fallen Tree reported near Naranpura; clustered prototype observation 403.,23.073558,72.568649,2026-07-31T06:00:00Z
+bulk-report-00404,bulk-00404,u151,,Other reported near Sector 7 - Chandkheda; clustered prototype observation 404.,23.108814,72.583417,2026-08-17T21:00:00Z
+bulk-report-00405,bulk-00405,u152,,Pothole reported near Maninagar; clustered prototype observation 405.,22.992340,72.613710,2026-07-12T06:00:00Z
+bulk-report-00406,bulk-00406,u153,,Road Damage reported near Satellite; clustered prototype observation 406.,23.024836,72.505655,2026-07-06T12:00:00Z
+bulk-report-00407,bulk-00407,u154,,Garbage reported near Navrangpura; clustered prototype observation 407.,23.037029,72.552572,2026-08-13T11:00:00Z
+bulk-report-00408,bulk-00408,u155,,Waterlogging reported near Gota; clustered prototype observation 408.,23.114276,72.548061,2026-08-18T09:00:00Z
+bulk-report-00409,bulk-00409,u156,,Manhole reported near Bopal; clustered prototype observation 409.,23.031337,72.465725,2026-08-02T21:00:00Z
+bulk-report-00410,bulk-00410,u157,,Streetlight reported near Vatva GIDC; clustered prototype observation 410.,22.957248,72.646604,2026-07-24T17:00:00Z
+bulk-report-00411,bulk-00411,u158,,Sewage reported near Vastral; clustered prototype observation 411.,23.020986,72.661210,2026-07-13T21:00:00Z
+bulk-report-00412,bulk-00412,u159,,Fallen Tree reported near Nikol; clustered prototype observation 412.,23.041204,72.632668,2026-08-18T02:00:00Z
+bulk-report-00413,bulk-00413,u160,,Other reported near Naranpura; clustered prototype observation 413.,23.065016,72.561477,2026-07-16T13:00:00Z
+bulk-report-00414,bulk-00414,u161,,Pothole reported near Sector 7 - Chandkheda; clustered prototype observation 414.,23.111522,72.584612,2026-08-14T10:00:00Z
+bulk-report-00415,bulk-00415,u162,,Road Damage reported near Maninagar; clustered prototype observation 415.,22.994035,72.615888,2026-07-17T04:00:00Z
+bulk-report-00416,bulk-00416,u163,,Garbage reported near Satellite; clustered prototype observation 416.,23.028697,72.507656,2026-07-30T07:00:00Z
+bulk-report-00417,bulk-00417,u164,,Waterlogging reported near Navrangpura; clustered prototype observation 417.,23.036438,72.554251,2026-07-24T17:00:00Z
+bulk-report-00418,bulk-00418,u165,,Manhole reported near Gota; clustered prototype observation 418.,23.115331,72.550189,2026-08-06T04:00:00Z
+bulk-report-00419,bulk-00419,u166,,Streetlight reported near Bopal; clustered prototype observation 419.,23.032052,72.468423,2026-08-17T07:00:00Z
+bulk-report-00420,bulk-00420,u167,,Sewage reported near Vatva GIDC; clustered prototype observation 420.,22.958889,72.648492,2026-07-23T15:00:00Z
+bulk-report-00421,bulk-00421,u168,,Fallen Tree reported near Vastral; clustered prototype observation 421.,23.024151,72.661469,2026-07-28T23:00:00Z
+bulk-report-00422,bulk-00422,u169,,Other reported near Nikol; clustered prototype observation 422.,23.042060,72.632589,2026-07-29T02:00:00Z
+bulk-report-00423,bulk-00423,u170,,Pothole reported near Naranpura; clustered prototype observation 423.,23.069880,72.562824,2026-07-17T11:00:00Z
+bulk-report-00424,bulk-00424,u171,,Road Damage reported near Sector 7 - Chandkheda; clustered prototype observation 424.,23.112685,72.587684,2026-07-23T11:00:00Z
+bulk-report-00425,bulk-00425,u172,,Garbage reported near Maninagar; clustered prototype observation 425.,22.996094,72.619013,2026-07-11T01:00:00Z
+bulk-report-00426,bulk-00426,u173,,Waterlogging reported near Satellite; clustered prototype observation 426.,23.028825,72.511565,2026-07-26T15:00:00Z
+bulk-report-00427,bulk-00427,u174,,Manhole reported near Navrangpura; clustered prototype observation 427.,23.039442,72.556159,2026-08-18T04:00:00Z
+bulk-report-00428,bulk-00428,u175,,Streetlight reported near Gota; clustered prototype observation 428.,23.118109,72.551501,2026-07-14T12:00:00Z
+bulk-report-00429,bulk-00429,u176,,Sewage reported near Bopal; clustered prototype observation 429.,23.035203,72.470682,2026-07-18T18:00:00Z
+bulk-report-00430,bulk-00430,u177,,Fallen Tree reported near Vatva GIDC; clustered prototype observation 430.,22.961110,72.650332,2026-07-27T23:00:00Z
+bulk-report-00431,bulk-00431,u178,,Other reported near Vastral; clustered prototype observation 431.,23.025411,72.665432,2026-08-08T15:00:00Z
+bulk-report-00432,bulk-00432,u179,,Pothole reported near Nikol; clustered prototype observation 432.,23.045051,72.635338,2026-08-07T07:00:00Z
+bulk-report-00433,bulk-00433,u180,,Road Damage reported near Naranpura; clustered prototype observation 433.,23.068913,72.564133,2026-07-19T11:00:00Z
+bulk-report-00434,bulk-00434,u181,,Garbage reported near Sector 7 - Chandkheda; clustered prototype observation 434.,23.114804,72.589929,2026-07-13T09:00:00Z
+bulk-report-00435,bulk-00435,u182,,Waterlogging reported near Maninagar; clustered prototype observation 435.,22.997925,72.620988,2026-07-18T21:00:00Z
+bulk-report-00436,bulk-00436,u183,,Manhole reported near Satellite; clustered prototype observation 436.,23.031534,72.512530,2026-07-20T20:00:00Z
+bulk-report-00437,bulk-00437,u184,,Streetlight reported near Navrangpura; clustered prototype observation 437.,23.041801,72.557041,2026-08-06T13:00:00Z
+bulk-report-00438,bulk-00438,u185,,Sewage reported near Gota; clustered prototype observation 438.,23.118581,72.553548,2026-08-18T03:00:00Z
+bulk-report-00439,bulk-00439,u186,,Fallen Tree reported near Bopal; clustered prototype observation 439.,23.036349,72.471049,2026-07-31T04:00:00Z
+bulk-report-00440,bulk-00440,u187,,Other reported near Vatva GIDC; clustered prototype observation 440.,22.962584,72.652623,2026-07-25T16:00:00Z
+bulk-report-00441,bulk-00441,u188,,Pothole reported near Vastral; clustered prototype observation 441.,23.027278,72.666728,2026-07-14T15:00:00Z
+bulk-report-00442,bulk-00442,u189,,Road Damage reported near Nikol; clustered prototype observation 442.,23.047370,72.636859,2026-07-05T19:00:00Z
+bulk-report-00443,bulk-00443,u190,,Garbage reported near Naranpura; clustered prototype observation 443.,23.071261,72.566054,2026-08-18T06:00:00Z
+bulk-report-00444,bulk-00444,u191,,Waterlogging reported near Sector 7 - Chandkheda; clustered prototype observation 444.,23.116548,72.591481,2026-08-05T23:00:00Z
+bulk-report-00445,bulk-00445,u192,,Manhole reported near Maninagar; clustered prototype observation 445.,22.999883,72.621816,2026-07-29T04:00:00Z
+bulk-report-00446,bulk-00446,u193,,Streetlight reported near Satellite; clustered prototype observation 446.,23.033560,72.514642,2026-07-18T03:00:00Z
+bulk-report-00447,bulk-00447,u194,,Sewage reported near Navrangpura; clustered prototype observation 447.,23.044266,72.560315,2026-07-24T21:00:00Z
+bulk-report-00448,bulk-00448,u195,,Fallen Tree reported near Gota; clustered prototype observation 448.,23.122098,72.557765,2026-08-01T23:00:00Z
+bulk-report-00449,bulk-00449,u196,,Other reported near Bopal; clustered prototype observation 449.,23.038830,72.472856,2026-07-31T23:00:00Z
+bulk-report-00450,bulk-00450,u197,,Pothole reported near Vatva GIDC; clustered prototype observation 450.,22.965200,72.653651,2026-08-13T13:00:00Z
+bulk-report-00451,bulk-00451,u198,,Road Damage reported near Vastral; clustered prototype observation 451.,23.028729,72.669722,2026-08-18T03:00:00Z
+bulk-report-00452,bulk-00452,u199,,Garbage reported near Nikol; clustered prototype observation 452.,23.049476,72.638694,2026-07-15T03:00:00Z
+bulk-report-00453,bulk-00453,u200,,Waterlogging reported near Naranpura; clustered prototype observation 453.,23.074608,72.568659,2026-07-28T09:00:00Z
+bulk-report-00454,bulk-00454,u001,,Manhole reported near Sector 7 - Chandkheda; clustered prototype observation 454.,23.107638,72.582526,2026-07-25T23:00:00Z
+bulk-report-00455,bulk-00455,u002,,Streetlight reported near Maninagar; clustered prototype observation 455.,22.992591,72.613775,2026-08-09T16:00:00Z
+bulk-report-00456,bulk-00456,u003,,Sewage reported near Satellite; clustered prototype observation 456.,23.025851,72.505404,2026-07-16T09:00:00Z
+bulk-report-00457,bulk-00457,u004,,Fallen Tree reported near Navrangpura; clustered prototype observation 457.,23.036080,72.551009,2026-08-16T19:00:00Z
+bulk-report-00458,bulk-00458,u105,,Other reported near Gota; clustered prototype observation 458.,23.113761,72.547815,2026-08-11T15:00:00Z
+bulk-report-00459,bulk-00459,u106,,Pothole reported near Bopal; clustered prototype observation 459.,23.031607,72.464773,2026-07-12T06:00:00Z
+bulk-report-00460,bulk-00460,u107,,Road Damage reported near Vatva GIDC; clustered prototype observation 460.,22.956948,72.644606,2026-07-18T10:00:00Z
+bulk-report-00461,bulk-00461,u108,,Garbage reported near Vastral; clustered prototype observation 461.,23.019936,72.661258,2026-08-12T14:00:00Z
+bulk-report-00462,bulk-00462,u109,,Waterlogging reported near Nikol; clustered prototype observation 462.,23.042668,72.631206,2026-07-05T16:00:00Z
+bulk-report-00463,bulk-00463,u110,,Manhole reported near Naranpura; clustered prototype observation 463.,23.066082,72.561885,2026-08-03T22:00:00Z
+bulk-report-00464,bulk-00464,u111,,Streetlight reported near Sector 7 - Chandkheda; clustered prototype observation 464.,23.111375,72.585686,2026-07-07T08:00:00Z
+bulk-report-00465,bulk-00465,u112,,Sewage reported near Maninagar; clustered prototype observation 465.,22.992068,72.616787,2026-07-18T15:00:00Z
+bulk-report-00466,bulk-00466,u113,,Fallen Tree reported near Satellite; clustered prototype observation 466.,23.027699,72.508124,2026-07-11T03:00:00Z
+bulk-report-00467,bulk-00467,u114,,Other reported near Navrangpura; clustered prototype observation 467.,23.037898,72.554375,2026-07-09T11:00:00Z
+bulk-report-00468,bulk-00468,u115,,Pothole reported near Gota; clustered prototype observation 468.,23.114977,72.549855,2026-07-17T04:00:00Z
+bulk-report-00469,bulk-00469,u116,,Road Damage reported near Bopal; clustered prototype observation 469.,23.034290,72.467267,2026-07-10T12:00:00Z
+bulk-report-00470,bulk-00470,u117,,Garbage reported near Vatva GIDC; clustered prototype observation 470.,22.958145,72.647971,2026-08-02T14:00:00Z
+bulk-report-00471,bulk-00471,u118,,Waterlogging reported near Vastral; clustered prototype observation 471.,23.022155,72.663848,2026-07-25T15:00:00Z
+bulk-report-00472,bulk-00472,u119,,Manhole reported near Nikol; clustered prototype observation 472.,23.042007,72.633362,2026-07-17T09:00:00Z
+bulk-report-00473,bulk-00473,u120,,Streetlight reported near Naranpura; clustered prototype observation 473.,23.067657,72.563175,2026-08-02T08:00:00Z
+bulk-report-00474,bulk-00474,u121,,Sewage reported near Sector 7 - Chandkheda; clustered prototype observation 474.,23.113703,72.587931,2026-07-13T23:00:00Z
+bulk-report-00475,bulk-00475,u122,,Fallen Tree reported near Maninagar; clustered prototype observation 475.,22.995422,72.619320,2026-07-22T05:00:00Z
+bulk-report-00476,bulk-00476,u123,,Other reported near Satellite; clustered prototype observation 476.,23.029878,72.509068,2026-07-25T15:00:00Z
+bulk-report-00477,bulk-00477,u124,,Pothole reported near Navrangpura; clustered prototype observation 477.,23.039712,72.556079,2026-08-07T03:00:00Z
+bulk-report-00478,bulk-00478,u125,,Road Damage reported near Gota; clustered prototype observation 478.,23.118631,72.551075,2026-07-07T23:00:00Z
+bulk-report-00479,bulk-00479,u126,,Garbage reported near Bopal; clustered prototype observation 479.,23.035252,72.470225,2026-08-16T07:00:00Z
+bulk-report-00480,bulk-00480,u127,,Waterlogging reported near Vatva GIDC; clustered prototype observation 480.,22.958904,72.650460,2026-07-09T21:00:00Z
+bulk-report-00481,bulk-00481,u128,,Manhole reported near Vastral; clustered prototype observation 481.,23.024724,72.664864,2026-08-16T23:00:00Z
+bulk-report-00482,bulk-00482,u129,,Streetlight reported near Nikol; clustered prototype observation 482.,23.045590,72.635221,2026-07-18T14:00:00Z
+bulk-report-00483,bulk-00483,u130,,Sewage reported near Naranpura; clustered prototype observation 483.,23.070760,72.565630,2026-07-21T15:00:00Z
+bulk-report-00484,bulk-00484,u131,,Fallen Tree reported near Sector 7 - Chandkheda; clustered prototype observation 484.,23.113882,72.589649,2026-08-05T05:00:00Z
+bulk-report-00485,bulk-00485,u132,,Other reported near Maninagar; clustered prototype observation 485.,22.996368,72.620525,2026-07-29T09:00:00Z
+bulk-report-00486,bulk-00486,u133,,Pothole reported near Satellite; clustered prototype observation 486.,23.032616,72.511382,2026-08-17T04:00:00Z
+bulk-report-00487,bulk-00487,u134,,Road Damage reported near Navrangpura; clustered prototype observation 487.,23.042064,72.558294,2026-07-24T19:00:00Z
+bulk-report-00488,bulk-00488,u135,,Garbage reported near Gota; clustered prototype observation 488.,23.120822,72.554109,2026-07-09T00:00:00Z
+bulk-report-00489,bulk-00489,u136,,Waterlogging reported near Bopal; clustered prototype observation 489.,23.037127,72.472709,2026-07-31T05:00:00Z
+bulk-report-00490,bulk-00490,u137,,Manhole reported near Vatva GIDC; clustered prototype observation 490.,22.962159,72.651168,2026-08-08T21:00:00Z
+bulk-report-00491,bulk-00491,u138,,Streetlight reported near Vastral; clustered prototype observation 491.,23.027468,72.667586,2026-08-19T09:00:00Z
+bulk-report-00492,bulk-00492,u139,,Sewage reported near Nikol; clustered prototype observation 492.,23.045790,72.635594,2026-08-09T16:00:00Z
+bulk-report-00493,bulk-00493,u140,,Fallen Tree reported near Naranpura; clustered prototype observation 493.,23.071933,72.567747,2026-08-13T03:00:00Z
+bulk-report-00494,bulk-00494,u141,,Other reported near Sector 7 - Chandkheda; clustered prototype observation 494.,23.116591,72.589994,2026-08-11T07:00:00Z
+bulk-report-00495,bulk-00495,u142,,Pothole reported near Maninagar; clustered prototype observation 495.,23.000180,72.622603,2026-07-30T13:00:00Z
+bulk-report-00496,bulk-00496,u143,,Road Damage reported near Satellite; clustered prototype observation 496.,23.033974,72.513658,2026-07-08T21:00:00Z
+bulk-report-00497,bulk-00497,u144,,Garbage reported near Navrangpura; clustered prototype observation 497.,23.044154,72.561414,2026-08-09T15:00:00Z
+bulk-report-00498,bulk-00498,u145,,Waterlogging reported near Gota; clustered prototype observation 498.,23.122071,72.555772,2026-07-18T23:00:00Z
+bulk-report-00499,bulk-00499,u146,,Manhole reported near Bopal; clustered prototype observation 499.,23.038844,72.473797,2026-08-04T04:00:00Z
+bulk-report-00500,bulk-00500,u147,,Streetlight reported near Vatva GIDC; clustered prototype observation 500.,22.966459,72.653502,2026-07-08T04:00:00Z
+bulk-report-00501,bulk-00501,u148,,Sewage reported near Vastral; clustered prototype observation 501.,23.029195,72.669219,2026-08-01T13:00:00Z
+bulk-report-00502,bulk-00502,u149,,Fallen Tree reported near Nikol; clustered prototype observation 502.,23.048978,72.638570,2026-07-23T00:00:00Z
+bulk-report-00503,bulk-00503,u150,,Other reported near Naranpura; clustered prototype observation 503.,23.073600,72.568429,2026-07-27T11:00:00Z
+bulk-report-00504,bulk-00504,u151,,Pothole reported near Sector 7 - Chandkheda; clustered prototype observation 504.,23.108715,72.583416,2026-07-11T22:00:00Z
+bulk-report-00505,bulk-00505,u152,,Road Damage reported near Maninagar; clustered prototype observation 505.,22.990971,72.613205,2026-07-21T22:00:00Z
+bulk-report-00506,bulk-00506,u153,,Garbage reported near Satellite; clustered prototype observation 506.,23.025760,72.506138,2026-07-11T17:00:00Z
+bulk-report-00507,bulk-00507,u154,,Waterlogging reported near Navrangpura; clustered prototype observation 507.,23.035871,72.552618,2026-08-02T23:00:00Z
+bulk-report-00508,bulk-00508,u155,,Manhole reported near Gota; clustered prototype observation 508.,23.114252,72.547801,2026-07-09T21:00:00Z
+bulk-report-00509,bulk-00509,u156,,Streetlight reported near Bopal; clustered prototype observation 509.,23.030915,72.464875,2026-07-10T11:00:00Z
+bulk-report-00510,bulk-00510,u157,,Sewage reported near Vatva GIDC; clustered prototype observation 510.,22.955624,72.645917,2026-08-01T17:00:00Z
+bulk-report-00511,bulk-00511,u158,,Fallen Tree reported near Vastral; clustered prototype observation 511.,23.021055,72.660512,2026-07-22T12:00:00Z
+bulk-report-00512,bulk-00512,u159,,Other reported near Nikol; clustered prototype observation 512.,23.041382,72.630984,2026-07-25T16:00:00Z
+bulk-report-00513,bulk-00513,u160,,Pothole reported near Naranpura; clustered prototype observation 513.,23.066669,72.561549,2026-08-10T13:00:00Z
+bulk-report-00514,bulk-00514,u161,,Road Damage reported near Sector 7 - Chandkheda; clustered prototype observation 514.,23.109202,72.585694,2026-07-12T23:00:00Z
+bulk-report-00515,bulk-00515,u162,,Garbage reported near Maninagar; clustered prototype observation 515.,22.994058,72.616357,2026-08-15T06:00:00Z
+bulk-report-00516,bulk-00516,u163,,Waterlogging reported near Satellite; clustered prototype observation 516.,23.027470,72.507824,2026-08-17T06:00:00Z
+bulk-report-00517,bulk-00517,u164,,Manhole reported near Navrangpura; clustered prototype observation 517.,23.036836,72.553467,2026-07-15T22:00:00Z
+bulk-report-00518,bulk-00518,u165,,Streetlight reported near Gota; clustered prototype observation 518.,23.116408,72.549546,2026-07-11T00:00:00Z
+bulk-report-00519,bulk-00519,u166,,Sewage reported near Bopal; clustered prototype observation 519.,23.034144,72.469012,2026-08-01T02:00:00Z
+bulk-report-00520,bulk-00520,u167,,Fallen Tree reported near Vatva GIDC; clustered prototype observation 520.,22.958372,72.648462,2026-08-14T23:00:00Z
+bulk-report-00521,bulk-00521,u168,,Other reported near Vastral; clustered prototype observation 521.,23.021778,72.662550,2026-08-02T04:00:00Z
+bulk-report-00522,bulk-00522,u169,,Pothole reported near Nikol; clustered prototype observation 522.,23.043575,72.633556,2026-07-18T21:00:00Z
+bulk-report-00523,bulk-00523,u170,,Road Damage reported near Naranpura; clustered prototype observation 523.,23.068352,72.562871,2026-08-02T01:00:00Z
+bulk-report-00524,bulk-00524,u171,,Garbage reported near Sector 7 - Chandkheda; clustered prototype observation 524.,23.112183,72.587944,2026-07-31T05:00:00Z
+bulk-report-00525,bulk-00525,u172,,Waterlogging reported near Maninagar; clustered prototype observation 525.,22.995498,72.619192,2026-07-12T22:00:00Z
+bulk-report-00526,bulk-00526,u173,,Manhole reported near Satellite; clustered prototype observation 526.,23.029226,72.511111,2026-08-01T18:00:00Z
+bulk-report-00527,bulk-00527,u174,,Streetlight reported near Navrangpura; clustered prototype observation 527.,23.039106,72.556371,2026-07-19T13:00:00Z
+bulk-report-00528,bulk-00528,u175,,Sewage reported near Gota; clustered prototype observation 528.,23.119063,72.551132,2026-07-15T06:00:00Z
+bulk-report-00529,bulk-00529,u176,,Fallen Tree reported near Bopal; clustered prototype observation 529.,23.034497,72.470586,2026-07-31T03:00:00Z
+bulk-report-00530,bulk-00530,u177,,Other reported near Vatva GIDC; clustered prototype observation 530.,22.959365,72.649573,2026-07-11T05:00:00Z
+bulk-report-00531,bulk-00531,u178,,Pothole reported near Vastral; clustered prototype observation 531.,23.024767,72.665723,2026-07-10T03:00:00Z
+bulk-report-00532,bulk-00532,u179,,Road Damage reported near Nikol; clustered prototype observation 532.,23.044106,72.636552,2026-07-09T23:00:00Z
+bulk-report-00533,bulk-00533,u180,,Garbage reported near Naranpura; clustered prototype observation 533.,23.068566,72.565838,2026-08-14T03:00:00Z
+bulk-report-00534,bulk-00534,u181,,Waterlogging reported near Sector 7 - Chandkheda; clustered prototype observation 534.,23.115372,72.588966,2026-07-05T04:00:00Z
+bulk-report-00535,bulk-00535,u182,,Manhole reported near Maninagar; clustered prototype observation 535.,22.997672,72.620576,2026-07-13T02:00:00Z
+bulk-report-00536,bulk-00536,u183,,Streetlight reported near Satellite; clustered prototype observation 536.,23.030939,72.513435,2026-07-19T20:00:00Z
+bulk-report-00537,bulk-00537,u184,,Sewage reported near Navrangpura; clustered prototype observation 537.,23.042392,72.557848,2026-07-21T03:00:00Z
+bulk-report-00538,bulk-00538,u185,,Fallen Tree reported near Gota; clustered prototype observation 538.,23.120337,72.553811,2026-07-14T08:00:00Z
+bulk-report-00539,bulk-00539,u186,,Other reported near Bopal; clustered prototype observation 539.,23.037219,72.472307,2026-08-16T01:00:00Z
+bulk-report-00540,bulk-00540,u187,,Pothole reported near Vatva GIDC; clustered prototype observation 540.,22.961857,72.652290,2026-07-23T11:00:00Z
+bulk-report-00541,bulk-00541,u188,,Road Damage reported near Vastral; clustered prototype observation 541.,23.028228,72.666196,2026-07-17T08:00:00Z
+bulk-report-00542,bulk-00542,u189,,Garbage reported near Nikol; clustered prototype observation 542.,23.047283,72.637339,2026-08-15T19:00:00Z
+bulk-report-00543,bulk-00543,u190,,Waterlogging reported near Naranpura; clustered prototype observation 543.,23.072021,72.567584,2026-07-08T18:00:00Z
+bulk-report-00544,bulk-00544,u191,,Manhole reported near Sector 7 - Chandkheda; clustered prototype observation 544.,23.116790,72.591476,2026-07-24T23:00:00Z
+bulk-report-00545,bulk-00545,u192,,Streetlight reported near Maninagar; clustered prototype observation 545.,22.998933,72.622746,2026-08-04T09:00:00Z
+bulk-report-00546,bulk-00546,u193,,Sewage reported near Satellite; clustered prototype observation 546.,23.033230,72.513528,2026-08-09T01:00:00Z
+bulk-report-00547,bulk-00547,u194,,Fallen Tree reported near Navrangpura; clustered prototype observation 547.,23.043517,72.560533,2026-07-18T23:00:00Z
+bulk-report-00548,bulk-00548,u195,,Other reported near Gota; clustered prototype observation 548.,23.121923,72.557707,2026-07-27T03:00:00Z
+bulk-report-00549,bulk-00549,u196,,Pothole reported near Bopal; clustered prototype observation 549.,23.038405,72.472443,2026-07-27T19:00:00Z
+bulk-report-00550,bulk-00550,u197,,Road Damage reported near Vatva GIDC; clustered prototype observation 550.,22.963789,72.654733,2026-07-24T22:00:00Z
+bulk-report-00551,bulk-00551,u198,,Garbage reported near Vastral; clustered prototype observation 551.,23.028929,72.668797,2026-07-15T14:00:00Z
+bulk-report-00552,bulk-00552,u199,,Waterlogging reported near Nikol; clustered prototype observation 552.,23.048663,72.639177,2026-08-15T02:00:00Z
+bulk-report-00553,bulk-00553,u200,,Manhole reported near Naranpura; clustered prototype observation 553.,23.073579,72.568863,2026-07-14T16:00:00Z
+bulk-report-00554,bulk-00554,u001,,Streetlight reported near Sector 7 - Chandkheda; clustered prototype observation 554.,23.107758,72.583615,2026-07-22T23:00:00Z
+bulk-report-00555,bulk-00555,u002,,Sewage reported near Maninagar; clustered prototype observation 555.,22.991696,72.614274,2026-07-27T00:00:00Z
+bulk-report-00556,bulk-00556,u003,,Fallen Tree reported near Satellite; clustered prototype observation 556.,23.025146,72.506130,2026-07-22T06:00:00Z
+bulk-report-00557,bulk-00557,u004,,Other reported near Navrangpura; clustered prototype observation 557.,23.035983,72.552479,2026-07-06T19:00:00Z
+bulk-report-00558,bulk-00558,u105,,Pothole reported near Gota; clustered prototype observation 558.,23.114787,72.549075,2026-07-27T22:00:00Z
+bulk-report-00559,bulk-00559,u106,,Road Damage reported near Bopal; clustered prototype observation 559.,23.032513,72.466105,2026-08-16T21:00:00Z
+bulk-report-00560,bulk-00560,u107,,Garbage reported near Vatva GIDC; clustered prototype observation 560.,22.955876,72.646619,2026-08-12T13:00:00Z
+bulk-report-00561,bulk-00561,u108,,Waterlogging reported near Vastral; clustered prototype observation 561.,23.021108,72.662408,2026-08-14T07:00:00Z
+bulk-report-00562,bulk-00562,u109,,Manhole reported near Nikol; clustered prototype observation 562.,23.041606,72.631932,2026-08-04T18:00:00Z
+bulk-report-00563,bulk-00563,u110,,Streetlight reported near Naranpura; clustered prototype observation 563.,23.065372,72.560826,2026-07-25T00:00:00Z
+bulk-report-00564,bulk-00564,u111,,Sewage reported near Sector 7 - Chandkheda; clustered prototype observation 564.,23.110520,72.586181,2026-08-10T04:00:00Z
+bulk-report-00565,bulk-00565,u112,,Fallen Tree reported near Maninagar; clustered prototype observation 565.,22.993796,72.616570,2026-08-16T19:00:00Z
+bulk-report-00566,bulk-00566,u113,,Other reported near Satellite; clustered prototype observation 566.,23.027921,72.508415,2026-07-25T03:00:00Z
+bulk-report-00567,bulk-00567,u114,,Pothole reported near Navrangpura; clustered prototype observation 567.,23.037525,72.553917,2026-07-25T16:00:00Z
+bulk-report-00568,bulk-00568,u115,,Road Damage reported near Gota; clustered prototype observation 568.,23.116642,72.550310,2026-07-15T12:00:00Z
+bulk-report-00569,bulk-00569,u116,,Garbage reported near Bopal; clustered prototype observation 569.,23.033625,72.467608,2026-08-18T21:00:00Z
+bulk-report-00570,bulk-00570,u117,,Waterlogging reported near Vatva GIDC; clustered prototype observation 570.,22.957317,72.648341,2026-08-14T13:00:00Z
+bulk-report-00571,bulk-00571,u118,,Manhole reported near Vastral; clustered prototype observation 571.,23.022531,72.663175,2026-08-09T16:00:00Z
+bulk-report-00572,bulk-00572,u119,,Streetlight reported near Nikol; clustered prototype observation 572.,23.042667,72.632459,2026-08-07T23:00:00Z
+bulk-report-00573,bulk-00573,u120,,Sewage reported near Naranpura; clustered prototype observation 573.,23.068075,72.563441,2026-08-18T03:00:00Z
+bulk-report-00574,bulk-00574,u121,,Fallen Tree reported near Sector 7 - Chandkheda; clustered prototype observation 574.,23.112426,72.587188,2026-07-10T09:00:00Z
+bulk-report-00575,bulk-00575,u122,,Other reported near Maninagar; clustered prototype observation 575.,22.995574,72.618371,2026-08-05T18:00:00Z
+bulk-report-00576,bulk-00576,u123,,Pothole reported near Satellite; clustered prototype observation 576.,23.029960,72.510781,2026-07-30T04:00:00Z
+bulk-report-00577,bulk-00577,u124,,Road Damage reported near Navrangpura; clustered prototype observation 577.,23.039174,72.556252,2026-07-26T07:00:00Z
+bulk-report-00578,bulk-00578,u125,,Garbage reported near Gota; clustered prototype observation 578.,23.117300,72.552516,2026-08-09T03:00:00Z
+bulk-report-00579,bulk-00579,u126,,Waterlogging reported near Bopal; clustered prototype observation 579.,23.034699,72.470003,2026-08-02T10:00:00Z
+bulk-report-00580,bulk-00580,u127,,Manhole reported near Vatva GIDC; clustered prototype observation 580.,22.960822,72.649603,2026-08-05T05:00:00Z
+bulk-report-00581,bulk-00581,u128,,Streetlight reported near Vastral; clustered prototype observation 581.,23.026256,72.664841,2026-07-25T11:00:00Z
+bulk-report-00582,bulk-00582,u129,,Sewage reported near Nikol; clustered prototype observation 582.,23.044519,72.634579,2026-07-18T12:00:00Z
+bulk-report-00583,bulk-00583,u130,,Fallen Tree reported near Naranpura; clustered prototype observation 583.,23.069250,72.563940,2026-08-13T16:00:00Z
+bulk-report-00584,bulk-00584,u131,,Other reported near Sector 7 - Chandkheda; clustered prototype observation 584.,23.114452,72.588161,2026-07-07T01:00:00Z
+bulk-report-00585,bulk-00585,u132,,Pothole reported near Maninagar; clustered prototype observation 585.,22.996454,72.619687,2026-08-16T18:00:00Z
+bulk-report-00586,bulk-00586,u133,,Road Damage reported near Satellite; clustered prototype observation 586.,23.032451,72.510411,2026-07-21T12:00:00Z
+bulk-report-00587,bulk-00587,u134,,Garbage reported near Navrangpura; clustered prototype observation 587.,23.041729,72.558723,2026-08-03T16:00:00Z
+bulk-report-00588,bulk-00588,u135,,Waterlogging reported near Gota; clustered prototype observation 588.,23.119782,72.553338,2026-08-07T03:00:00Z
+bulk-report-00589,bulk-00589,u136,,Manhole reported near Bopal; clustered prototype observation 589.,23.036484,72.472745,2026-07-09T23:00:00Z
+bulk-report-00590,bulk-00590,u137,,Streetlight reported near Vatva GIDC; clustered prototype observation 590.,22.962203,72.652767,2026-08-15T20:00:00Z
+bulk-report-00591,bulk-00591,u138,,Sewage reported near Vastral; clustered prototype observation 591.,23.027093,72.667027,2026-08-09T01:00:00Z
+bulk-report-00592,bulk-00592,u139,,Fallen Tree reported near Nikol; clustered prototype observation 592.,23.046437,72.637770,2026-08-14T16:00:00Z
+bulk-report-00593,bulk-00593,u140,,Other reported near Naranpura; clustered prototype observation 593.,23.072169,72.567883,2026-08-05T05:00:00Z
+bulk-report-00594,bulk-00594,u141,,Pothole reported near Sector 7 - Chandkheda; clustered prototype observation 594.,23.116440,72.591472,2026-07-25T19:00:00Z
+bulk-report-00595,bulk-00595,u142,,Road Damage reported near Maninagar; clustered prototype observation 595.,22.998555,72.623916,2026-08-07T00:00:00Z
+bulk-report-00596,bulk-00596,u143,,Garbage reported near Satellite; clustered prototype observation 596.,23.034784,72.514542,2026-07-16T12:00:00Z
+bulk-report-00597,bulk-00597,u144,,Waterlogging reported near Navrangpura; clustered prototype observation 597.,23.042216,72.560195,2026-07-23T14:00:00Z
+bulk-report-00598,bulk-00598,u145,,Manhole reported near Gota; clustered prototype observation 598.,23.122292,72.556271,2026-07-24T18:00:00Z
+bulk-report-00599,bulk-00599,u146,,Streetlight reported near Bopal; clustered prototype observation 599.,23.038933,72.474707,2026-07-11T15:00:00Z
+bulk-report-00600,bulk-00600,u147,,Sewage reported near Vatva GIDC; clustered prototype observation 600.,22.964611,72.653251,2026-08-11T18:00:00Z
+bulk-report-00601,bulk-00601,u148,,Fallen Tree reported near Vastral; clustered prototype observation 601.,23.029251,72.668884,2026-08-18T08:00:00Z
+bulk-report-00602,bulk-00602,u149,,Other reported near Nikol; clustered prototype observation 602.,23.050559,72.638298,2026-08-17T20:00:00Z
+bulk-report-00603,bulk-00603,u150,,Pothole reported near Naranpura; clustered prototype observation 603.,23.073551,72.569357,2026-07-13T23:00:00Z
+bulk-report-00604,bulk-00604,u151,,Road Damage reported near Sector 7 - Chandkheda; clustered prototype observation 604.,23.109312,72.583241,2026-08-06T17:00:00Z
+bulk-report-00605,bulk-00605,u152,,Garbage reported near Maninagar; clustered prototype observation 605.,22.991980,72.615048,2026-07-28T11:00:00Z
+bulk-report-00606,bulk-00606,u153,,Waterlogging reported near Satellite; clustered prototype observation 606.,23.026583,72.506181,2026-07-28T12:00:00Z
+bulk-report-00607,bulk-00607,u154,,Manhole reported near Navrangpura; clustered prototype observation 607.,23.035278,72.551362,2026-07-28T12:00:00Z
+bulk-report-00608,bulk-00608,u155,,Streetlight reported near Gota; clustered prototype observation 608.,23.113961,72.549756,2026-07-26T14:00:00Z
+bulk-report-00609,bulk-00609,u156,,Sewage reported near Bopal; clustered prototype observation 609.,23.030854,72.465041,2026-08-01T14:00:00Z
+bulk-report-00610,bulk-00610,u157,,Fallen Tree reported near Vatva GIDC; clustered prototype observation 610.,22.957706,72.645837,2026-07-05T11:00:00Z
+bulk-report-00611,bulk-00611,u158,,Other reported near Vastral; clustered prototype observation 611.,23.021991,72.662895,2026-07-29T02:00:00Z
+bulk-report-00612,bulk-00612,u159,,Pothole reported near Nikol; clustered prototype observation 612.,23.041404,72.630827,2026-08-05T18:00:00Z
+bulk-report-00613,bulk-00613,u160,,Road Damage reported near Naranpura; clustered prototype observation 613.,23.067453,72.561170,2026-07-29T18:00:00Z
+bulk-report-00614,bulk-00614,u161,,Garbage reported near Sector 7 - Chandkheda; clustered prototype observation 614.,23.109915,72.586035,2026-07-29T06:00:00Z
+bulk-report-00615,bulk-00615,u162,,Waterlogging reported near Maninagar; clustered prototype observation 615.,22.993807,72.616171,2026-07-13T14:00:00Z
+bulk-report-00616,bulk-00616,u163,,Manhole reported near Satellite; clustered prototype observation 616.,23.027001,72.509100,2026-08-03T17:00:00Z
+bulk-report-00617,bulk-00617,u164,,Streetlight reported near Navrangpura; clustered prototype observation 617.,23.037902,72.554667,2026-07-31T12:00:00Z
+bulk-report-00618,bulk-00618,u165,,Sewage reported near Gota; clustered prototype observation 618.,23.115969,72.550314,2026-07-24T10:00:00Z
+bulk-report-00619,bulk-00619,u166,,Fallen Tree reported near Bopal; clustered prototype observation 619.,23.033299,72.468510,2026-07-19T14:00:00Z
+bulk-report-00620,bulk-00620,u167,,Other reported near Vatva GIDC; clustered prototype observation 620.,22.957478,72.647918,2026-08-18T09:00:00Z
+bulk-report-00621,bulk-00621,u168,,Pothole reported near Vastral; clustered prototype observation 621.,23.022352,72.662884,2026-07-31T16:00:00Z
+bulk-report-00622,bulk-00622,u169,,Road Damage reported near Nikol; clustered prototype observation 622.,23.043254,72.633930,2026-08-02T20:00:00Z
+bulk-report-00623,bulk-00623,u170,,Garbage reported near Naranpura; clustered prototype observation 623.,23.067837,72.563370,2026-07-21T02:00:00Z
+bulk-report-00624,bulk-00624,u171,,Waterlogging reported near Sector 7 - Chandkheda; clustered prototype observation 624.,23.113013,72.587271,2026-07-15T14:00:00Z
+bulk-report-00625,bulk-00625,u172,,Manhole reported near Maninagar; clustered prototype observation 625.,22.995558,72.618679,2026-07-06T13:00:00Z
+bulk-report-00626,bulk-00626,u173,,Streetlight reported near Satellite; clustered prototype observation 626.,23.029168,72.508987,2026-08-01T05:00:00Z
+bulk-report-00627,bulk-00627,u174,,Sewage reported near Navrangpura; clustered prototype observation 627.,23.040168,72.555395,2026-07-07T06:00:00Z
+bulk-report-00628,bulk-00628,u175,,Fallen Tree reported near Gota; clustered prototype observation 628.,23.118189,72.551639,2026-07-25T20:00:00Z
+bulk-report-00629,bulk-00629,u176,,Other reported near Bopal; clustered prototype observation 629.,23.034015,72.470046,2026-08-11T05:00:00Z
+bulk-report-00630,bulk-00630,u177,,Pothole reported near Vatva GIDC; clustered prototype observation 630.,22.960707,72.650174,2026-08-11T06:00:00Z
+bulk-report-00631,bulk-00631,u178,,Road Damage reported near Vastral; clustered prototype observation 631.,23.023698,72.665803,2026-07-22T21:00:00Z
+bulk-report-00632,bulk-00632,u179,,Garbage reported near Nikol; clustered prototype observation 632.,23.045760,72.635395,2026-07-23T21:00:00Z
+bulk-report-00633,bulk-00633,u180,,Waterlogging reported near Naranpura; clustered prototype observation 633.,23.070421,72.564164,2026-08-09T18:00:00Z
+bulk-report-00634,bulk-00634,u181,,Manhole reported near Sector 7 - Chandkheda; clustered prototype observation 634.,23.113983,72.591253,2026-08-17T21:00:00Z
+bulk-report-00635,bulk-00635,u182,,Streetlight reported near Maninagar; clustered prototype observation 635.,22.996925,72.619838,2026-08-01T06:00:00Z
+bulk-report-00636,bulk-00636,u183,,Sewage reported near Satellite; clustered prototype observation 636.,23.031892,72.512690,2026-07-23T02:00:00Z
+bulk-report-00637,bulk-00637,u184,,Fallen Tree reported near Navrangpura; clustered prototype observation 637.,23.042167,72.558293,2026-07-18T08:00:00Z
+bulk-report-00638,bulk-00638,u185,,Other reported near Gota; clustered prototype observation 638.,23.120166,72.554293,2026-07-11T01:00:00Z
+bulk-report-00639,bulk-00639,u186,,Pothole reported near Bopal; clustered prototype observation 639.,23.035557,72.471968,2026-07-09T18:00:00Z
+bulk-report-00640,bulk-00640,u187,,Road Damage reported near Vatva GIDC; clustered prototype observation 640.,22.962166,72.652459,2026-08-03T22:00:00Z
+bulk-report-00641,bulk-00641,u188,,Garbage reported near Vastral; clustered prototype observation 641.,23.026666,72.667057,2026-08-08T12:00:00Z
+bulk-report-00642,bulk-00642,u189,,Waterlogging reported near Nikol; clustered prototype observation 642.,23.048416,72.637559,2026-07-28T17:00:00Z
+bulk-report-00643,bulk-00643,u190,,Manhole reported near Naranpura; clustered prototype observation 643.,23.072253,72.567041,2026-08-09T05:00:00Z
+bulk-report-00644,bulk-00644,u191,,Streetlight reported near Sector 7 - Chandkheda; clustered prototype observation 644.,23.115390,72.591132,2026-08-03T19:00:00Z
+bulk-report-00645,bulk-00645,u192,,Sewage reported near Maninagar; clustered prototype observation 645.,23.000532,72.621631,2026-08-11T08:00:00Z
+bulk-report-00646,bulk-00646,u193,,Fallen Tree reported near Satellite; clustered prototype observation 646.,23.033668,72.514507,2026-08-12T11:00:00Z
+bulk-report-00647,bulk-00647,u194,,Other reported near Navrangpura; clustered prototype observation 647.,23.044150,72.560702,2026-07-22T08:00:00Z
+bulk-report-00648,bulk-00648,u195,,Pothole reported near Gota; clustered prototype observation 648.,23.121029,72.555724,2026-07-15T23:00:00Z
+bulk-report-00649,bulk-00649,u196,,Road Damage reported near Bopal; clustered prototype observation 649.,23.038360,72.473708,2026-07-28T13:00:00Z
+bulk-report-00650,bulk-00650,u197,,Garbage reported near Vatva GIDC; clustered prototype observation 650.,22.962806,72.654791,2026-07-11T12:00:00Z
+bulk-report-00651,bulk-00651,u198,,Waterlogging reported near Vastral; clustered prototype observation 651.,23.029671,72.668957,2026-08-11T12:00:00Z
+bulk-report-00652,bulk-00652,u199,,Manhole reported near Nikol; clustered prototype observation 652.,23.050358,72.638650,2026-08-04T05:00:00Z
+bulk-report-00653,bulk-00653,u200,,Streetlight reported near Naranpura; clustered prototype observation 653.,23.073931,72.570432,2026-07-30T21:00:00Z
+bulk-report-00654,bulk-00654,u001,,Sewage reported near Sector 7 - Chandkheda; clustered prototype observation 654.,23.109247,72.583327,2026-08-10T13:00:00Z
+bulk-report-00655,bulk-00655,u002,,Fallen Tree reported near Maninagar; clustered prototype observation 655.,22.990413,72.613097,2026-08-17T16:00:00Z
+bulk-report-00656,bulk-00656,u003,,Other reported near Satellite; clustered prototype observation 656.,23.025540,72.505122,2026-08-15T18:00:00Z
+bulk-report-00657,bulk-00657,u004,,Pothole reported near Navrangpura; clustered prototype observation 657.,23.035326,72.552531,2026-07-15T14:00:00Z
+bulk-report-00658,bulk-00658,u105,,Road Damage reported near Gota; clustered prototype observation 658.,23.113442,72.549013,2026-08-04T21:00:00Z
+bulk-report-00659,bulk-00659,u106,,Garbage reported near Bopal; clustered prototype observation 659.,23.030786,72.466282,2026-08-02T07:00:00Z
+bulk-report-00660,bulk-00660,u107,,Waterlogging reported near Vatva GIDC; clustered prototype observation 660.,22.956085,72.647734,2026-07-31T13:00:00Z
+bulk-report-00661,bulk-00661,u108,,Manhole reported near Vastral; clustered prototype observation 661.,23.021051,72.661678,2026-07-19T09:00:00Z
+bulk-report-00662,bulk-00662,u109,,Streetlight reported near Nikol; clustered prototype observation 662.,23.039956,72.630692,2026-07-06T13:00:00Z
+bulk-report-00663,bulk-00663,u110,,Sewage reported near Naranpura; clustered prototype observation 663.,23.065091,72.559663,2026-08-01T11:00:00Z
+bulk-report-00664,bulk-00664,u111,,Fallen Tree reported near Sector 7 - Chandkheda; clustered prototype observation 664.,23.110915,72.585956,2026-07-18T14:00:00Z
+bulk-report-00665,bulk-00665,u112,,Other reported near Maninagar; clustered prototype observation 665.,22.993716,72.615699,2026-08-07T17:00:00Z
+bulk-report-00666,bulk-00666,u113,,Pothole reported near Satellite; clustered prototype observation 666.,23.028663,72.508294,2026-07-14T13:00:00Z
+bulk-report-00667,bulk-00667,u114,,Road Damage reported near Navrangpura; clustered prototype observation 667.,23.038027,72.554142,2026-08-04T01:00:00Z
+bulk-report-00668,bulk-00668,u115,,Garbage reported near Gota; clustered prototype observation 668.,23.115845,72.549190,2026-07-19T11:00:00Z
+bulk-report-00669,bulk-00669,u116,,Waterlogging reported near Bopal; clustered prototype observation 669.,23.032845,72.468200,2026-07-29T09:00:00Z
+bulk-report-00670,bulk-00670,u117,,Manhole reported near Vatva GIDC; clustered prototype observation 670.,22.958265,72.646894,2026-07-16T02:00:00Z
+bulk-report-00671,bulk-00671,u118,,Streetlight reported near Vastral; clustered prototype observation 671.,23.023068,72.663113,2026-07-26T08:00:00Z
+bulk-report-00672,bulk-00672,u119,,Sewage reported near Nikol; clustered prototype observation 672.,23.044371,72.633112,2026-08-15T18:00:00Z
+bulk-report-00673,bulk-00673,u120,,Fallen Tree reported near Naranpura; clustered prototype observation 673.,23.068022,72.563262,2026-07-19T20:00:00Z
+bulk-report-00674,bulk-00674,u121,,Other reported near Sector 7 - Chandkheda; clustered prototype observation 674.,23.112798,72.587099,2026-07-14T16:00:00Z
+bulk-report-00675,bulk-00675,u122,,Pothole reported near Maninagar; clustered prototype observation 675.,22.995416,72.618567,2026-07-12T22:00:00Z
+bulk-report-00676,bulk-00676,u123,,Road Damage reported near Satellite; clustered prototype observation 676.,23.030584,72.509464,2026-07-05T10:00:00Z
+bulk-report-00677,bulk-00677,u124,,Garbage reported near Navrangpura; clustered prototype observation 677.,23.038834,72.555855,2026-08-14T05:00:00Z
+bulk-report-00678,bulk-00678,u125,,Waterlogging reported near Gota; clustered prototype observation 678.,23.117718,72.552290,2026-08-10T19:00:00Z
+bulk-report-00679,bulk-00679,u126,,Manhole reported near Bopal; clustered prototype observation 679.,23.034984,72.470183,2026-08-17T00:00:00Z
+bulk-report-00680,bulk-00680,u127,,Streetlight reported near Vatva GIDC; clustered prototype observation 680.,22.959401,72.649711,2026-07-31T01:00:00Z
+bulk-report-00681,bulk-00681,u128,,Sewage reported near Vastral; clustered prototype observation 681.,23.024810,72.665055,2026-07-15T05:00:00Z
+bulk-report-00682,bulk-00682,u129,,Fallen Tree reported near Nikol; clustered prototype observation 682.,23.044149,72.635568,2026-07-15T11:00:00Z
+bulk-report-00683,bulk-00683,u130,,Other reported near Naranpura; clustered prototype observation 683.,23.070190,72.564309,2026-07-17T05:00:00Z
+bulk-report-00684,bulk-00684,u131,,Pothole reported near Sector 7 - Chandkheda; clustered prototype observation 684.,23.114452,72.589268,2026-07-27T00:00:00Z
+bulk-report-00685,bulk-00685,u132,,Road Damage reported near Maninagar; clustered prototype observation 685.,22.996978,72.621367,2026-07-19T21:00:00Z
+bulk-report-00686,bulk-00686,u133,,Garbage reported near Satellite; clustered prototype observation 686.,23.031117,72.510956,2026-07-29T05:00:00Z
+bulk-report-00687,bulk-00687,u134,,Waterlogging reported near Navrangpura; clustered prototype observation 687.,23.042223,72.558256,2026-08-12T07:00:00Z
+bulk-report-00688,bulk-00688,u135,,Manhole reported near Gota; clustered prototype observation 688.,23.120707,72.555256,2026-07-19T11:00:00Z
+bulk-report-00689,bulk-00689,u136,,Streetlight reported near Bopal; clustered prototype observation 689.,23.036094,72.472226,2026-08-06T17:00:00Z
+bulk-report-00690,bulk-00690,u137,,Sewage reported near Vatva GIDC; clustered prototype observation 690.,22.962006,72.652001,2026-07-30T03:00:00Z
+bulk-report-00691,bulk-00691,u138,,Fallen Tree reported near Vastral; clustered prototype observation 691.,23.026871,72.667223,2026-08-17T12:00:00Z
+bulk-report-00692,bulk-00692,u139,,Other reported near Nikol; clustered prototype observation 692.,23.047710,72.637372,2026-07-17T00:00:00Z
+bulk-report-00693,bulk-00693,u140,,Pothole reported near Naranpura; clustered prototype observation 693.,23.071899,72.566831,2026-07-04T21:00:00Z
+bulk-report-00694,bulk-00694,u141,,Road Damage reported near Sector 7 - Chandkheda; clustered prototype observation 694.,23.115940,72.592457,2026-08-09T01:00:00Z
+bulk-report-00695,bulk-00695,u142,,Garbage reported near Maninagar; clustered prototype observation 695.,22.999502,72.624396,2026-07-29T11:00:00Z
+bulk-report-00696,bulk-00696,u143,,Waterlogging reported near Satellite; clustered prototype observation 696.,23.034620,72.513685,2026-07-28T07:00:00Z
+bulk-report-00697,bulk-00697,u144,,Manhole reported near Navrangpura; clustered prototype observation 697.,23.042962,72.560198,2026-07-04T17:00:00Z
+bulk-report-00698,bulk-00698,u145,,Streetlight reported near Gota; clustered prototype observation 698.,23.121999,72.557985,2026-07-08T20:00:00Z
+bulk-report-00699,bulk-00699,u146,,Sewage reported near Bopal; clustered prototype observation 699.,23.038237,72.474082,2026-07-18T13:00:00Z
+bulk-report-00700,bulk-00700,u147,,Fallen Tree reported near Vatva GIDC; clustered prototype observation 700.,22.962890,72.653369,2026-08-13T05:00:00Z
+bulk-report-00701,bulk-00701,u148,,Other reported near Vastral; clustered prototype observation 701.,23.028213,72.669276,2026-07-10T11:00:00Z
+bulk-report-00702,bulk-00702,u149,,Pothole reported near Nikol; clustered prototype observation 702.,23.049528,72.637952,2026-07-05T09:00:00Z
+bulk-report-00703,bulk-00703,u150,,Road Damage reported near Naranpura; clustered prototype observation 703.,23.074576,72.570602,2026-08-15T01:00:00Z
+bulk-report-00704,bulk-00704,u151,,Garbage reported near Sector 7 - Chandkheda; clustered prototype observation 704.,23.108724,72.581768,2026-07-27T19:00:00Z
+bulk-report-00705,bulk-00705,u152,,Waterlogging reported near Maninagar; clustered prototype observation 705.,22.992219,72.613438,2026-07-10T11:00:00Z
+bulk-report-00706,bulk-00706,u153,,Manhole reported near Satellite; clustered prototype observation 706.,23.024435,72.505655,2026-07-07T07:00:00Z
+bulk-report-00707,bulk-00707,u154,,Streetlight reported near Navrangpura; clustered prototype observation 707.,23.035237,72.552443,2026-07-19T01:00:00Z
+bulk-report-00708,bulk-00708,u155,,Sewage reported near Gota; clustered prototype observation 708.,23.114390,72.547322,2026-08-18T13:00:00Z
+bulk-report-00709,bulk-00709,u156,,Fallen Tree reported near Bopal; clustered prototype observation 709.,23.031764,72.466365,2026-07-13T18:00:00Z
+bulk-report-00710,bulk-00710,u157,,Other reported near Vatva GIDC; clustered prototype observation 710.,22.955760,72.645349,2026-07-05T12:00:00Z
+bulk-report-00711,bulk-00711,u158,,Pothole reported near Vastral; clustered prototype observation 711.,23.021160,72.662094,2026-07-05T04:00:00Z
+bulk-report-00712,bulk-00712,u159,,Road Damage reported near Nikol; clustered prototype observation 712.,23.040915,72.631443,2026-07-12T09:00:00Z
+bulk-report-00713,bulk-00713,u160,,Garbage reported near Naranpura; clustered prototype observation 713.,23.065766,72.560978,2026-07-22T07:00:00Z
+bulk-report-00714,bulk-00714,u161,,Waterlogging reported near Sector 7 - Chandkheda; clustered prototype observation 714.,23.109203,72.585691,2026-07-18T05:00:00Z
+bulk-report-00715,bulk-00715,u162,,Manhole reported near Maninagar; clustered prototype observation 715.,22.993950,72.616303,2026-07-10T19:00:00Z
+bulk-report-00716,bulk-00716,u163,,Streetlight reported near Satellite; clustered prototype observation 716.,23.028249,72.508386,2026-08-09T23:00:00Z
+bulk-report-00717,bulk-00717,u164,,Sewage reported near Navrangpura; clustered prototype observation 717.,23.036977,72.554148,2026-08-14T08:00:00Z
+bulk-report-00718,bulk-00718,u165,,Fallen Tree reported near Gota; clustered prototype observation 718.,23.116223,72.549979,2026-08-09T04:00:00Z
+bulk-report-00719,bulk-00719,u166,,Other reported near Bopal; clustered prototype observation 719.,23.033498,72.468662,2026-07-08T10:00:00Z
+bulk-report-00720,bulk-00720,u167,,Pothole reported near Vatva GIDC; clustered prototype observation 720.,22.956906,72.648884,2026-07-07T03:00:00Z
+bulk-report-00721,bulk-00721,u168,,Road Damage reported near Vastral; clustered prototype observation 721.,23.022169,72.663659,2026-08-02T02:00:00Z
+bulk-report-00722,bulk-00722,u169,,Garbage reported near Nikol; clustered prototype observation 722.,23.041491,72.633212,2026-07-28T08:00:00Z
+bulk-report-00723,bulk-00723,u170,,Waterlogging reported near Naranpura; clustered prototype observation 723.,23.068848,72.563830,2026-07-16T19:00:00Z
+bulk-report-00724,bulk-00724,u171,,Manhole reported near Sector 7 - Chandkheda; clustered prototype observation 724.,23.111012,72.587793,2026-07-27T19:00:00Z
+bulk-report-00725,bulk-00725,u172,,Streetlight reported near Maninagar; clustered prototype observation 725.,22.995630,72.618037,2026-08-01T14:00:00Z
+bulk-report-00726,bulk-00726,u173,,Sewage reported near Satellite; clustered prototype observation 726.,23.029555,72.509372,2026-08-14T21:00:00Z
+bulk-report-00727,bulk-00727,u174,,Fallen Tree reported near Navrangpura; clustered prototype observation 727.,23.039878,72.555217,2026-07-12T14:00:00Z
+bulk-report-00728,bulk-00728,u175,,Other reported near Gota; clustered prototype observation 728.,23.117392,72.551535,2026-07-26T05:00:00Z
+bulk-report-00729,bulk-00729,u176,,Pothole reported near Bopal; clustered prototype observation 729.,23.034371,72.470918,2026-07-22T10:00:00Z
+bulk-report-00730,bulk-00730,u177,,Road Damage reported near Vatva GIDC; clustered prototype observation 730.,22.960737,72.650454,2026-07-08T06:00:00Z
+bulk-report-00731,bulk-00731,u178,,Garbage reported near Vastral; clustered prototype observation 731.,23.023578,72.664590,2026-08-03T02:00:00Z
+bulk-report-00732,bulk-00732,u179,,Waterlogging reported near Nikol; clustered prototype observation 732.,23.045206,72.635080,2026-08-01T11:00:00Z
+bulk-report-00733,bulk-00733,u180,,Manhole reported near Naranpura; clustered prototype observation 733.,23.069617,72.564983,2026-07-18T18:00:00Z
+bulk-report-00734,bulk-00734,u181,,Streetlight reported near Sector 7 - Chandkheda; clustered prototype observation 734.,23.114105,72.588523,2026-07-16T02:00:00Z
+bulk-report-00735,bulk-00735,u182,,Sewage reported near Maninagar; clustered prototype observation 735.,22.998798,72.620290,2026-07-05T01:00:00Z
+bulk-report-00736,bulk-00736,u183,,Fallen Tree reported near Satellite; clustered prototype observation 736.,23.031519,72.512387,2026-07-12T01:00:00Z
+bulk-report-00737,bulk-00737,u184,,Other reported near Navrangpura; clustered prototype observation 737.,23.042551,72.558494,2026-07-09T00:00:00Z
+bulk-report-00738,bulk-00738,u185,,Pothole reported near Gota; clustered prototype observation 738.,23.119452,72.553167,2026-07-09T20:00:00Z
+bulk-report-00739,bulk-00739,u186,,Road Damage reported near Bopal; clustered prototype observation 739.,23.037972,72.472026,2026-07-09T05:00:00Z
+bulk-report-00740,bulk-00740,u187,,Garbage reported near Vatva GIDC; clustered prototype observation 740.,22.961564,72.652083,2026-07-26T22:00:00Z
+bulk-report-00741,bulk-00741,u188,,Waterlogging reported near Vastral; clustered prototype observation 741.,23.027845,72.666148,2026-07-26T07:00:00Z
+bulk-report-00742,bulk-00742,u189,,Manhole reported near Nikol; clustered prototype observation 742.,23.047979,72.636162,2026-07-26T10:00:00Z
+bulk-report-00743,bulk-00743,u190,,Streetlight reported near Naranpura; clustered prototype observation 743.,23.071728,72.565775,2026-07-18T18:00:00Z
+bulk-report-00744,bulk-00744,u191,,Sewage reported near Sector 7 - Chandkheda; clustered prototype observation 744.,23.117940,72.592312,2026-08-01T14:00:00Z
+bulk-report-00745,bulk-00745,u192,,Fallen Tree reported near Maninagar; clustered prototype observation 745.,22.999959,72.623673,2026-07-19T18:00:00Z
+bulk-report-00746,bulk-00746,u193,,Other reported near Satellite; clustered prototype observation 746.,23.033622,72.512758,2026-07-28T07:00:00Z
+bulk-report-00747,bulk-00747,u194,,Pothole reported near Navrangpura; clustered prototype observation 747.,23.043492,72.559729,2026-08-09T11:00:00Z
+bulk-report-00748,bulk-00748,u195,,Road Damage reported near Gota; clustered prototype observation 748.,23.120955,72.555428,2026-08-07T11:00:00Z
+bulk-report-00749,bulk-00749,u196,,Garbage reported near Bopal; clustered prototype observation 749.,23.039239,72.473544,2026-07-07T05:00:00Z
+bulk-report-00750,bulk-00750,u197,,Waterlogging reported near Vatva GIDC; clustered prototype observation 750.,22.963883,72.653955,2026-08-05T10:00:00Z
+bulk-report-00751,bulk-00751,u198,,Manhole reported near Vastral; clustered prototype observation 751.,23.028853,72.669015,2026-08-06T21:00:00Z
+bulk-report-00752,bulk-00752,u199,,Streetlight reported near Nikol; clustered prototype observation 752.,23.048360,72.638086,2026-08-11T00:00:00Z
+bulk-report-00753,bulk-00753,u200,,Sewage reported near Naranpura; clustered prototype observation 753.,23.073430,72.568192,2026-07-27T01:00:00Z
+bulk-report-00754,bulk-00754,u001,,Fallen Tree reported near Sector 7 - Chandkheda; clustered prototype observation 754.,23.108191,72.582414,2026-07-26T07:00:00Z
+bulk-report-00755,bulk-00755,u002,,Other reported near Maninagar; clustered prototype observation 755.,22.992832,72.614087,2026-07-21T22:00:00Z
+bulk-report-00756,bulk-00756,u003,,Pothole reported near Satellite; clustered prototype observation 756.,23.025448,72.505998,2026-08-15T10:00:00Z
+bulk-report-00757,bulk-00757,u004,,Road Damage reported near Navrangpura; clustered prototype observation 757.,23.036262,72.553812,2026-08-05T22:00:00Z
+bulk-report-00758,bulk-00758,u105,,Garbage reported near Gota; clustered prototype observation 758.,23.113948,72.548242,2026-07-22T14:00:00Z
+bulk-report-00759,bulk-00759,u106,,Waterlogging reported near Bopal; clustered prototype observation 759.,23.031338,72.466418,2026-07-26T21:00:00Z
+bulk-report-00760,bulk-00760,u107,,Manhole reported near Vatva GIDC; clustered prototype observation 760.,22.954845,72.645243,2026-08-09T05:00:00Z
+bulk-report-00761,bulk-00761,u108,,Streetlight reported near Vastral; clustered prototype observation 761.,23.020710,72.661408,2026-07-16T16:00:00Z
+bulk-report-00762,bulk-00762,u109,,Sewage reported near Nikol; clustered prototype observation 762.,23.040281,72.631174,2026-07-05T09:00:00Z
+bulk-report-00763,bulk-00763,u110,,Fallen Tree reported near Naranpura; clustered prototype observation 763.,23.064780,72.561308,2026-07-26T08:00:00Z
+bulk-report-00764,bulk-00764,u111,,Other reported near Sector 7 - Chandkheda; clustered prototype observation 764.,23.110390,72.586073,2026-08-03T04:00:00Z
+bulk-report-00765,bulk-00765,u112,,Pothole reported near Maninagar; clustered prototype observation 765.,22.992550,72.616126,2026-08-01T19:00:00Z
+bulk-report-00766,bulk-00766,u113,,Road Damage reported near Satellite; clustered prototype observation 766.,23.027311,72.509064,2026-07-07T21:00:00Z
+bulk-report-00767,bulk-00767,u114,,Garbage reported near Navrangpura; clustered prototype observation 767.,23.037020,72.553220,2026-07-14T23:00:00Z
+bulk-report-00768,bulk-00768,u115,,Waterlogging reported near Gota; clustered prototype observation 768.,23.115864,72.549734,2026-08-08T15:00:00Z
+bulk-report-00769,bulk-00769,u116,,Manhole reported near Bopal; clustered prototype observation 769.,23.033329,72.466295,2026-07-25T11:00:00Z
+bulk-report-00770,bulk-00770,u117,,Streetlight reported near Vatva GIDC; clustered prototype observation 770.,22.956330,72.649331,2026-08-13T01:00:00Z
+bulk-report-00771,bulk-00771,u118,,Sewage reported near Vastral; clustered prototype observation 771.,23.023271,72.662612,2026-07-21T00:00:00Z
+bulk-report-00772,bulk-00772,u119,,Fallen Tree reported near Nikol; clustered prototype observation 772.,23.043688,72.632774,2026-07-30T22:00:00Z
+bulk-report-00773,bulk-00773,u120,,Other reported near Naranpura; clustered prototype observation 773.,23.067283,72.563088,2026-08-19T01:00:00Z
+bulk-report-00774,bulk-00774,u121,,Pothole reported near Sector 7 - Chandkheda; clustered prototype observation 774.,23.113092,72.588009,2026-07-09T19:00:00Z
+bulk-report-00775,bulk-00775,u122,,Road Damage reported near Maninagar; clustered prototype observation 775.,22.996781,72.619246,2026-08-07T17:00:00Z
+bulk-report-00776,bulk-00776,u123,,Garbage reported near Satellite; clustered prototype observation 776.,23.029769,72.509628,2026-08-06T04:00:00Z
+bulk-report-00777,bulk-00777,u124,,Waterlogging reported near Navrangpura; clustered prototype observation 777.,23.039342,72.555928,2026-07-21T13:00:00Z
+bulk-report-00778,bulk-00778,u125,,Manhole reported near Gota; clustered prototype observation 778.,23.117401,72.551268,2026-07-07T12:00:00Z
+bulk-report-00779,bulk-00779,u126,,Streetlight reported near Bopal; clustered prototype observation 779.,23.035120,72.468665,2026-07-12T04:00:00Z
+bulk-report-00780,bulk-00780,u127,,Sewage reported near Vatva GIDC; clustered prototype observation 780.,22.960550,72.648998,2026-08-11T19:00:00Z
+bulk-report-00781,bulk-00781,u128,,Fallen Tree reported near Vastral; clustered prototype observation 781.,23.023909,72.665847,2026-07-12T05:00:00Z
+bulk-report-00782,bulk-00782,u129,,Other reported near Nikol; clustered prototype observation 782.,23.045156,72.634742,2026-08-11T21:00:00Z
+bulk-report-00783,bulk-00783,u130,,Pothole reported near Naranpura; clustered prototype observation 783.,23.070513,72.565500,2026-08-13T12:00:00Z
+bulk-report-00784,bulk-00784,u131,,Road Damage reported near Sector 7 - Chandkheda; clustered prototype observation 784.,23.115298,72.588536,2026-08-05T17:00:00Z
+bulk-report-00785,bulk-00785,u132,,Garbage reported near Maninagar; clustered prototype observation 785.,22.997973,72.619033,2026-07-12T04:00:00Z
+bulk-report-00786,bulk-00786,u133,,Waterlogging reported near Satellite; clustered prototype observation 786.,23.031550,72.512802,2026-07-21T00:00:00Z
+bulk-report-00787,bulk-00787,u134,,Manhole reported near Navrangpura; clustered prototype observation 787.,23.042801,72.557416,2026-07-07T08:00:00Z
+bulk-report-00788,bulk-00788,u135,,Streetlight reported near Gota; clustered prototype observation 788.,23.119823,72.554153,2026-07-21T08:00:00Z
+bulk-report-00789,bulk-00789,u136,,Sewage reported near Bopal; clustered prototype observation 789.,23.036210,72.471682,2026-08-01T02:00:00Z
+bulk-report-00790,bulk-00790,u137,,Fallen Tree reported near Vatva GIDC; clustered prototype observation 790.,22.962545,72.652237,2026-07-06T23:00:00Z
+bulk-report-00791,bulk-00791,u138,,Other reported near Vastral; clustered prototype observation 791.,23.026758,72.667738,2026-08-09T20:00:00Z
+bulk-report-00792,bulk-00792,u139,,Pothole reported near Nikol; clustered prototype observation 792.,23.047469,72.636723,2026-07-20T04:00:00Z
+bulk-report-00793,bulk-00793,u140,,Road Damage reported near Naranpura; clustered prototype observation 793.,23.071741,72.567306,2026-07-09T22:00:00Z
+bulk-report-00794,bulk-00794,u141,,Garbage reported near Sector 7 - Chandkheda; clustered prototype observation 794.,23.116352,72.591888,2026-08-03T13:00:00Z
+bulk-report-00795,bulk-00795,u142,,Waterlogging reported near Maninagar; clustered prototype observation 795.,23.001181,72.620110,2026-07-10T02:00:00Z
+bulk-report-00796,bulk-00796,u143,,Manhole reported near Satellite; clustered prototype observation 796.,23.034516,72.513650,2026-08-17T00:00:00Z
+bulk-report-00797,bulk-00797,u144,,Streetlight reported near Navrangpura; clustered prototype observation 797.,23.043559,72.559670,2026-07-15T11:00:00Z
+bulk-report-00798,bulk-00798,u145,,Sewage reported near Gota; clustered prototype observation 798.,23.121518,72.556807,2026-07-16T22:00:00Z
+bulk-report-00799,bulk-00799,u146,,Fallen Tree reported near Bopal; clustered prototype observation 799.,23.039004,72.474243,2026-07-20T23:00:00Z
+bulk-report-00800,bulk-00800,u147,,Other reported near Vatva GIDC; clustered prototype observation 800.,22.964385,72.653881,2026-07-22T02:00:00Z
+bulk-report-00801,bulk-00801,u148,,Pothole reported near Vastral; clustered prototype observation 801.,23.028659,72.668850,2026-07-19T21:00:00Z
+bulk-report-00802,bulk-00802,u149,,Road Damage reported near Nikol; clustered prototype observation 802.,23.047911,72.638798,2026-07-11T06:00:00Z
+bulk-report-00803,bulk-00803,u150,,Garbage reported near Naranpura; clustered prototype observation 803.,23.073705,72.568338,2026-07-06T15:00:00Z
+bulk-report-00804,bulk-00804,u151,,Waterlogging reported near Sector 7 - Chandkheda; clustered prototype observation 804.,23.108722,72.583567,2026-07-07T11:00:00Z
+bulk-report-00805,bulk-00805,u152,,Manhole reported near Maninagar; clustered prototype observation 805.,22.990556,72.613651,2026-08-15T02:00:00Z
+bulk-report-00806,bulk-00806,u153,,Streetlight reported near Satellite; clustered prototype observation 806.,23.025435,72.506448,2026-07-28T15:00:00Z
+bulk-report-00807,bulk-00807,u154,,Sewage reported near Navrangpura; clustered prototype observation 807.,23.035370,72.552255,2026-07-06T11:00:00Z
+bulk-report-00808,bulk-00808,u155,,Fallen Tree reported near Gota; clustered prototype observation 808.,23.113967,72.548131,2026-08-15T22:00:00Z
+bulk-report-00809,bulk-00809,u156,,Other reported near Bopal; clustered prototype observation 809.,23.029262,72.464540,2026-08-08T10:00:00Z
+bulk-report-00810,bulk-00810,u157,,Pothole reported near Vatva GIDC; clustered prototype observation 810.,22.954719,72.646578,2026-07-25T07:00:00Z
+bulk-report-00811,bulk-00811,u158,,Road Damage reported near Vastral; clustered prototype observation 811.,23.021569,72.660092,2026-08-03T04:00:00Z
+bulk-report-00812,bulk-00812,u159,,Garbage reported near Nikol; clustered prototype observation 812.,23.039127,72.630480,2026-08-04T23:00:00Z
+bulk-report-00813,bulk-00813,u160,,Waterlogging reported near Naranpura; clustered prototype observation 813.,23.066370,72.560517,2026-07-09T22:00:00Z
+bulk-report-00814,bulk-00814,u161,,Manhole reported near Sector 7 - Chandkheda; clustered prototype observation 814.,23.110283,72.585287,2026-07-27T12:00:00Z
+bulk-report-00815,bulk-00815,u162,,Streetlight reported near Maninagar; clustered prototype observation 815.,22.993701,72.616172,2026-08-10T19:00:00Z
+bulk-report-00816,bulk-00816,u163,,Sewage reported near Satellite; clustered prototype observation 816.,23.028715,72.509815,2026-07-20T03:00:00Z
+bulk-report-00817,bulk-00817,u164,,Fallen Tree reported near Navrangpura; clustered prototype observation 817.,23.036737,72.553927,2026-08-03T05:00:00Z
+bulk-report-00818,bulk-00818,u165,,Other reported near Gota; clustered prototype observation 818.,23.115636,72.549647,2026-07-19T21:00:00Z
+bulk-report-00819,bulk-00819,u166,,Pothole reported near Bopal; clustered prototype observation 819.,23.033688,72.466644,2026-08-10T18:00:00Z
+bulk-report-00820,bulk-00820,u167,,Road Damage reported near Vatva GIDC; clustered prototype observation 820.,22.958028,72.647463,2026-08-09T12:00:00Z
+bulk-report-00821,bulk-00821,u168,,Garbage reported near Vastral; clustered prototype observation 821.,23.023130,72.662533,2026-08-15T04:00:00Z
+bulk-report-00822,bulk-00822,u169,,Waterlogging reported near Nikol; clustered prototype observation 822.,23.043522,72.631844,2026-08-13T14:00:00Z
+bulk-report-00823,bulk-00823,u170,,Manhole reported near Naranpura; clustered prototype observation 823.,23.067346,72.564204,2026-07-27T22:00:00Z
+bulk-report-00824,bulk-00824,u171,,Streetlight reported near Sector 7 - Chandkheda; clustered prototype observation 824.,23.111458,72.586719,2026-07-07T11:00:00Z
+bulk-report-00825,bulk-00825,u172,,Sewage reported near Maninagar; clustered prototype observation 825.,22.994362,72.618727,2026-07-28T18:00:00Z
+bulk-report-00826,bulk-00826,u173,,Fallen Tree reported near Satellite; clustered prototype observation 826.,23.030025,72.509428,2026-07-20T05:00:00Z
+bulk-report-00827,bulk-00827,u174,,Other reported near Navrangpura; clustered prototype observation 827.,23.039865,72.556169,2026-08-04T11:00:00Z
+bulk-report-00828,bulk-00828,u175,,Pothole reported near Gota; clustered prototype observation 828.,23.117369,72.551850,2026-07-07T23:00:00Z
+bulk-report-00829,bulk-00829,u176,,Road Damage reported near Bopal; clustered prototype observation 829.,23.034837,72.469984,2026-07-08T08:00:00Z
+bulk-report-00830,bulk-00830,u177,,Garbage reported near Vatva GIDC; clustered prototype observation 830.,22.960075,72.650068,2026-07-24T17:00:00Z
+bulk-report-00831,bulk-00831,u178,,Waterlogging reported near Vastral; clustered prototype observation 831.,23.025357,72.664989,2026-08-18T00:00:00Z
+bulk-report-00832,bulk-00832,u179,,Manhole reported near Nikol; clustered prototype observation 832.,23.043404,72.634433,2026-08-11T13:00:00Z
+bulk-report-00833,bulk-00833,u180,,Streetlight reported near Naranpura; clustered prototype observation 833.,23.069832,72.565046,2026-08-07T13:00:00Z
+bulk-report-00834,bulk-00834,u181,,Sewage reported near Sector 7 - Chandkheda; clustered prototype observation 834.,23.114585,72.590456,2026-08-10T09:00:00Z
+bulk-report-00835,bulk-00835,u182,,Fallen Tree reported near Maninagar; clustered prototype observation 835.,22.996964,72.619809,2026-08-09T16:00:00Z
+bulk-report-00836,bulk-00836,u183,,Other reported near Satellite; clustered prototype observation 836.,23.031123,72.512442,2026-07-29T09:00:00Z
+bulk-report-00837,bulk-00837,u184,,Pothole reported near Navrangpura; clustered prototype observation 837.,23.042128,72.557714,2026-07-06T16:00:00Z
+bulk-report-00838,bulk-00838,u185,,Road Damage reported near Gota; clustered prototype observation 838.,23.120156,72.554228,2026-07-19T16:00:00Z
+bulk-report-00839,bulk-00839,u186,,Garbage reported near Bopal; clustered prototype observation 839.,23.036556,72.472391,2026-07-30T23:00:00Z
+bulk-report-00840,bulk-00840,u187,,Waterlogging reported near Vatva GIDC; clustered prototype observation 840.,22.961997,72.650900,2026-08-11T17:00:00Z
+bulk-report-00841,bulk-00841,u188,,Manhole reported near Vastral; clustered prototype observation 841.,23.027213,72.668102,2026-08-07T12:00:00Z
+bulk-report-00842,bulk-00842,u189,,Streetlight reported near Nikol; clustered prototype observation 842.,23.047178,72.635949,2026-08-10T04:00:00Z
+bulk-report-00843,bulk-00843,u190,,Sewage reported near Naranpura; clustered prototype observation 843.,23.071693,72.566749,2026-07-07T23:00:00Z
+bulk-report-00844,bulk-00844,u191,,Fallen Tree reported near Sector 7 - Chandkheda; clustered prototype observation 844.,23.116071,72.590650,2026-08-14T00:00:00Z
+bulk-report-00845,bulk-00845,u192,,Other reported near Maninagar; clustered prototype observation 845.,22.999965,72.622949,2026-07-09T05:00:00Z
+bulk-report-00846,bulk-00846,u193,,Pothole reported near Satellite; clustered prototype observation 846.,23.032722,72.515061,2026-07-14T04:00:00Z
+bulk-report-00847,bulk-00847,u194,,Road Damage reported near Navrangpura; clustered prototype observation 847.,23.043020,72.559532,2026-07-04T14:00:00Z
+bulk-report-00848,bulk-00848,u195,,Garbage reported near Gota; clustered prototype observation 848.,23.121349,72.556008,2026-07-24T00:00:00Z
+bulk-report-00849,bulk-00849,u196,,Waterlogging reported near Bopal; clustered prototype observation 849.,23.039687,72.474311,2026-07-17T17:00:00Z
+bulk-report-00850,bulk-00850,u197,,Manhole reported near Vatva GIDC; clustered prototype observation 850.,22.964626,72.653002,2026-08-13T03:00:00Z
+bulk-report-00851,bulk-00851,u198,,Streetlight reported near Vastral; clustered prototype observation 851.,23.028580,72.668265,2026-07-15T01:00:00Z
+bulk-report-00852,bulk-00852,u199,,Sewage reported near Nikol; clustered prototype observation 852.,23.048627,72.637749,2026-07-06T01:00:00Z
+bulk-report-00853,bulk-00853,u200,,Fallen Tree reported near Naranpura; clustered prototype observation 853.,23.073202,72.568581,2026-07-05T23:00:00Z
+bulk-report-00854,bulk-00854,u001,,Other reported near Sector 7 - Chandkheda; clustered prototype observation 854.,23.108580,72.582833,2026-07-22T22:00:00Z
+bulk-report-00855,bulk-00855,u002,,Pothole reported near Maninagar; clustered prototype observation 855.,22.990782,72.614672,2026-07-28T18:00:00Z
+bulk-report-00856,bulk-00856,u003,,Road Damage reported near Satellite; clustered prototype observation 856.,23.025252,72.505271,2026-07-20T13:00:00Z
+bulk-report-00857,bulk-00857,u004,,Garbage reported near Navrangpura; clustered prototype observation 857.,23.034835,72.551878,2026-08-17T13:00:00Z
+bulk-report-00858,bulk-00858,u105,,Waterlogging reported near Gota; clustered prototype observation 858.,23.113658,72.548156,2026-07-17T09:00:00Z
+bulk-report-00859,bulk-00859,u106,,Manhole reported near Bopal; clustered prototype observation 859.,23.030253,72.466579,2026-08-13T02:00:00Z
+bulk-report-00860,bulk-00860,u107,,Streetlight reported near Vatva GIDC; clustered prototype observation 860.,22.955775,72.646496,2026-07-05T04:00:00Z
+bulk-report-00861,bulk-00861,u108,,Sewage reported near Vastral; clustered prototype observation 861.,23.020833,72.662003,2026-07-14T07:00:00Z
+bulk-report-00862,bulk-00862,u109,,Fallen Tree reported near Nikol; clustered prototype observation 862.,23.040963,72.629396,2026-08-18T05:00:00Z
+bulk-report-00863,bulk-00863,u110,,Other reported near Naranpura; clustered prototype observation 863.,23.065408,72.559992,2026-08-14T05:00:00Z
+bulk-report-00864,bulk-00864,u111,,Pothole reported near Sector 7 - Chandkheda; clustered prototype observation 864.,23.110809,72.584120,2026-07-27T21:00:00Z
+bulk-report-00865,bulk-00865,u112,,Road Damage reported near Maninagar; clustered prototype observation 865.,22.995114,72.617669,2026-08-15T18:00:00Z
+bulk-report-00866,bulk-00866,u113,,Garbage reported near Satellite; clustered prototype observation 866.,23.026991,72.508812,2026-08-07T22:00:00Z
+bulk-report-00867,bulk-00867,u114,,Waterlogging reported near Navrangpura; clustered prototype observation 867.,23.037840,72.554575,2026-08-04T23:00:00Z
+bulk-report-00868,bulk-00868,u115,,Manhole reported near Gota; clustered prototype observation 868.,23.115922,72.550619,2026-07-14T09:00:00Z
+bulk-report-00869,bulk-00869,u116,,Streetlight reported near Bopal; clustered prototype observation 869.,23.031440,72.468502,2026-07-22T15:00:00Z
+bulk-report-00870,bulk-00870,u117,,Sewage reported near Vatva GIDC; clustered prototype observation 870.,22.957762,72.648904,2026-07-23T10:00:00Z
+bulk-report-00871,bulk-00871,u118,,Fallen Tree reported near Vastral; clustered prototype observation 871.,23.024220,72.662653,2026-07-04T23:00:00Z
+bulk-report-00872,bulk-00872,u119,,Other reported near Nikol; clustered prototype observation 872.,23.042809,72.631909,2026-07-20T21:00:00Z
+bulk-report-00873,bulk-00873,u120,,Pothole reported near Naranpura; clustered prototype observation 873.,23.067777,72.563526,2026-08-11T10:00:00Z
+bulk-report-00874,bulk-00874,u121,,Road Damage reported near Sector 7 - Chandkheda; clustered prototype observation 874.,23.112453,72.586891,2026-08-10T09:00:00Z
+bulk-report-00875,bulk-00875,u122,,Garbage reported near Maninagar; clustered prototype observation 875.,22.995518,72.618525,2026-07-24T19:00:00Z
+bulk-report-00876,bulk-00876,u123,,Waterlogging reported near Satellite; clustered prototype observation 876.,23.030840,72.512366,2026-07-04T20:00:00Z
+bulk-report-00877,bulk-00877,u124,,Manhole reported near Navrangpura; clustered prototype observation 877.,23.040057,72.556226,2026-07-14T12:00:00Z
+bulk-report-00878,bulk-00878,u125,,Streetlight reported near Gota; clustered prototype observation 878.,23.118449,72.551383,2026-07-29T15:00:00Z
+bulk-report-00879,bulk-00879,u126,,Sewage reported near Bopal; clustered prototype observation 879.,23.035436,72.469264,2026-07-11T10:00:00Z
+bulk-report-00880,bulk-00880,u127,,Fallen Tree reported near Vatva GIDC; clustered prototype observation 880.,22.960097,72.649628,2026-08-06T05:00:00Z
+bulk-report-00881,bulk-00881,u128,,Other reported near Vastral; clustered prototype observation 881.,23.026167,72.664244,2026-07-30T11:00:00Z
+bulk-report-00882,bulk-00882,u129,,Pothole reported near Nikol; clustered prototype observation 882.,23.045784,72.634544,2026-07-19T01:00:00Z
+bulk-report-00883,bulk-00883,u130,,Road Damage reported near Naranpura; clustered prototype observation 883.,23.070906,72.564589,2026-07-21T13:00:00Z
+bulk-report-00884,bulk-00884,u131,,Garbage reported near Sector 7 - Chandkheda; clustered prototype observation 884.,23.113566,72.590238,2026-08-18T17:00:00Z
+bulk-report-00885,bulk-00885,u132,,Waterlogging reported near Maninagar; clustered prototype observation 885.,22.996770,72.620821,2026-07-21T16:00:00Z
+bulk-report-00886,bulk-00886,u133,,Manhole reported near Satellite; clustered prototype observation 886.,23.031836,72.513088,2026-07-18T17:00:00Z
+bulk-report-00887,bulk-00887,u134,,Streetlight reported near Navrangpura; clustered prototype observation 887.,23.040115,72.557172,2026-07-09T21:00:00Z
+bulk-report-00888,bulk-00888,u135,,Sewage reported near Gota; clustered prototype observation 888.,23.119394,72.554170,2026-08-07T15:00:00Z
+bulk-report-00889,bulk-00889,u136,,Fallen Tree reported near Bopal; clustered prototype observation 889.,23.037351,72.472005,2026-08-18T19:00:00Z
+bulk-report-00890,bulk-00890,u137,,Other reported near Vatva GIDC; clustered prototype observation 890.,22.961630,72.651816,2026-08-18T02:00:00Z
+bulk-report-00891,bulk-00891,u138,,Pothole reported near Vastral; clustered prototype observation 891.,23.027771,72.666880,2026-07-20T03:00:00Z
+bulk-report-00892,bulk-00892,u139,,Road Damage reported near Nikol; clustered prototype observation 892.,23.047222,72.636813,2026-08-17T06:00:00Z
+bulk-report-00893,bulk-00893,u140,,Garbage reported near Naranpura; clustered prototype observation 893.,23.072257,72.568334,2026-07-09T16:00:00Z
+bulk-report-00894,bulk-00894,u141,,Waterlogging reported near Sector 7 - Chandkheda; clustered prototype observation 894.,23.116118,72.590683,2026-07-28T00:00:00Z
+bulk-report-00895,bulk-00895,u142,,Manhole reported near Maninagar; clustered prototype observation 895.,23.000035,72.622580,2026-07-31T23:00:00Z
+bulk-report-00896,bulk-00896,u143,,Streetlight reported near Satellite; clustered prototype observation 896.,23.033529,72.514054,2026-07-14T21:00:00Z
+bulk-report-00897,bulk-00897,u144,,Sewage reported near Navrangpura; clustered prototype observation 897.,23.043981,72.559260,2026-07-19T12:00:00Z
+bulk-report-00898,bulk-00898,u145,,Fallen Tree reported near Gota; clustered prototype observation 898.,23.120663,72.556317,2026-07-27T19:00:00Z
+bulk-report-00899,bulk-00899,u146,,Other reported near Bopal; clustered prototype observation 899.,23.038759,72.473187,2026-08-17T22:00:00Z
+bulk-report-00900,bulk-00900,u147,,Pothole reported near Vatva GIDC; clustered prototype observation 900.,22.962905,72.654723,2026-08-13T18:00:00Z
+bulk-report-00901,bulk-00901,u148,,Road Damage reported near Vastral; clustered prototype observation 901.,23.029575,72.669320,2026-07-14T22:00:00Z
+bulk-report-00902,bulk-00902,u149,,Garbage reported near Nikol; clustered prototype observation 902.,23.049182,72.638943,2026-08-18T02:00:00Z
+bulk-report-00903,bulk-00903,u150,,Waterlogging reported near Naranpura; clustered prototype observation 903.,23.074642,72.568348,2026-07-06T23:00:00Z
+bulk-report-00904,bulk-00904,u151,,Manhole reported near Sector 7 - Chandkheda; clustered prototype observation 904.,23.108020,72.583887,2026-07-06T17:00:00Z
+bulk-report-00905,bulk-00905,u152,,Streetlight reported near Maninagar; clustered prototype observation 905.,22.991936,72.614838,2026-08-07T15:00:00Z
+bulk-report-00906,bulk-00906,u153,,Sewage reported near Satellite; clustered prototype observation 906.,23.026435,72.506058,2026-07-28T09:00:00Z
+bulk-report-00907,bulk-00907,u154,,Fallen Tree reported near Navrangpura; clustered prototype observation 907.,23.034653,72.552380,2026-08-16T11:00:00Z
+bulk-report-00908,bulk-00908,u155,,Other reported near Gota; clustered prototype observation 908.,23.114293,72.548420,2026-07-31T22:00:00Z
+bulk-report-00909,bulk-00909,u156,,Pothole reported near Bopal; clustered prototype observation 909.,23.031210,72.464972,2026-08-09T21:00:00Z
+bulk-report-00910,bulk-00910,u157,,Road Damage reported near Vatva GIDC; clustered prototype observation 910.,22.956578,72.645818,2026-08-15T15:00:00Z
+bulk-report-00911,bulk-00911,u158,,Garbage reported near Vastral; clustered prototype observation 911.,23.021590,72.660401,2026-07-26T08:00:00Z
+bulk-report-00912,bulk-00912,u159,,Waterlogging reported near Nikol; clustered prototype observation 912.,23.040738,72.631882,2026-08-09T14:00:00Z
+bulk-report-00913,bulk-00913,u160,,Manhole reported near Naranpura; clustered prototype observation 913.,23.066290,72.561635,2026-08-11T07:00:00Z
+bulk-report-00914,bulk-00914,u161,,Streetlight reported near Sector 7 - Chandkheda; clustered prototype observation 914.,23.111078,72.585232,2026-07-07T02:00:00Z
+bulk-report-00915,bulk-00915,u162,,Sewage reported near Maninagar; clustered prototype observation 915.,22.994763,72.616759,2026-07-21T10:00:00Z
+bulk-report-00916,bulk-00916,u163,,Fallen Tree reported near Satellite; clustered prototype observation 916.,23.028041,72.507217,2026-07-09T01:00:00Z
+bulk-report-00917,bulk-00917,u164,,Other reported near Navrangpura; clustered prototype observation 917.,23.037551,72.554530,2026-07-10T07:00:00Z
+bulk-report-00918,bulk-00918,u165,,Pothole reported near Gota; clustered prototype observation 918.,23.114634,72.549934,2026-07-17T11:00:00Z
+bulk-report-00919,bulk-00919,u166,,Road Damage reported near Bopal; clustered prototype observation 919.,23.032830,72.466540,2026-07-25T09:00:00Z
+bulk-report-00920,bulk-00920,u167,,Garbage reported near Vatva GIDC; clustered prototype observation 920.,22.957244,72.648087,2026-07-17T18:00:00Z
+bulk-report-00921,bulk-00921,u168,,Waterlogging reported near Vastral; clustered prototype observation 921.,23.022543,72.662485,2026-07-08T01:00:00Z
+bulk-report-00922,bulk-00922,u169,,Manhole reported near Nikol; clustered prototype observation 922.,23.043029,72.632685,2026-07-27T08:00:00Z
+bulk-report-00923,bulk-00923,u170,,Streetlight reported near Naranpura; clustered prototype observation 923.,23.066823,72.563097,2026-07-24T18:00:00Z
+bulk-report-00924,bulk-00924,u171,,Sewage reported near Sector 7 - Chandkheda; clustered prototype observation 924.,23.112271,72.586502,2026-07-12T17:00:00Z
+bulk-report-00925,bulk-00925,u172,,Fallen Tree reported near Maninagar; clustered prototype observation 925.,22.997703,72.618172,2026-07-07T12:00:00Z
+bulk-report-00926,bulk-00926,u173,,Other reported near Satellite; clustered prototype observation 926.,23.030017,72.510997,2026-08-18T06:00:00Z
+bulk-report-00927,bulk-00927,u174,,Pothole reported near Navrangpura; clustered prototype observation 927.,23.040574,72.556492,2026-07-27T11:00:00Z
+bulk-report-00928,bulk-00928,u175,,Road Damage reported near Gota; clustered prototype observation 928.,23.117932,72.551469,2026-08-15T16:00:00Z
+bulk-report-00929,bulk-00929,u176,,Garbage reported near Bopal; clustered prototype observation 929.,23.034317,72.470687,2026-07-27T10:00:00Z
+bulk-report-00930,bulk-00930,u177,,Waterlogging reported near Vatva GIDC; clustered prototype observation 930.,22.960410,72.651856,2026-08-12T10:00:00Z
+bulk-report-00931,bulk-00931,u178,,Manhole reported near Vastral; clustered prototype observation 931.,23.026441,72.664909,2026-07-17T22:00:00Z
+bulk-report-00932,bulk-00932,u179,,Streetlight reported near Nikol; clustered prototype observation 932.,23.044995,72.634792,2026-08-07T13:00:00Z
+bulk-report-00933,bulk-00933,u180,,Sewage reported near Naranpura; clustered prototype observation 933.,23.069723,72.564775,2026-07-27T11:00:00Z
+bulk-report-00934,bulk-00934,u181,,Fallen Tree reported near Sector 7 - Chandkheda; clustered prototype observation 934.,23.114003,72.589132,2026-08-17T07:00:00Z
+bulk-report-00935,bulk-00935,u182,,Other reported near Maninagar; clustered prototype observation 935.,22.997586,72.620226,2026-07-17T02:00:00Z
+bulk-report-00936,bulk-00936,u183,,Pothole reported near Satellite; clustered prototype observation 936.,23.029969,72.512673,2026-07-29T20:00:00Z
+bulk-report-00937,bulk-00937,u184,,Road Damage reported near Navrangpura; clustered prototype observation 937.,23.041091,72.557220,2026-08-17T17:00:00Z
+bulk-report-00938,bulk-00938,u185,,Garbage reported near Gota; clustered prototype observation 938.,23.120274,72.553505,2026-07-11T22:00:00Z
+bulk-report-00939,bulk-00939,u186,,Waterlogging reported near Bopal; clustered prototype observation 939.,23.036473,72.471842,2026-07-17T23:00:00Z
+bulk-report-00940,bulk-00940,u187,,Manhole reported near Vatva GIDC; clustered prototype observation 940.,22.963084,72.652473,2026-07-22T22:00:00Z
+bulk-report-00941,bulk-00941,u188,,Streetlight reported near Vastral; clustered prototype observation 941.,23.026426,72.667531,2026-07-13T01:00:00Z
+bulk-report-00942,bulk-00942,u189,,Sewage reported near Nikol; clustered prototype observation 942.,23.047917,72.635974,2026-07-16T12:00:00Z
+bulk-report-00943,bulk-00943,u190,,Fallen Tree reported near Naranpura; clustered prototype observation 943.,23.072315,72.566830,2026-07-20T16:00:00Z
+bulk-report-00944,bulk-00944,u191,,Other reported near Sector 7 - Chandkheda; clustered prototype observation 944.,23.116553,72.591749,2026-08-08T02:00:00Z
+bulk-report-00945,bulk-00945,u192,,Pothole reported near Maninagar; clustered prototype observation 945.,23.000063,72.621369,2026-07-23T09:00:00Z
+bulk-report-00946,bulk-00946,u193,,Road Damage reported near Satellite; clustered prototype observation 946.,23.033575,72.513776,2026-07-14T00:00:00Z
+bulk-report-00947,bulk-00947,u194,,Garbage reported near Navrangpura; clustered prototype observation 947.,23.043179,72.560036,2026-08-15T01:00:00Z
+bulk-report-00948,bulk-00948,u195,,Waterlogging reported near Gota; clustered prototype observation 948.,23.122293,72.555622,2026-08-08T14:00:00Z
+bulk-report-00949,bulk-00949,u196,,Manhole reported near Bopal; clustered prototype observation 949.,23.038902,72.473402,2026-07-29T13:00:00Z
+bulk-report-00950,bulk-00950,u197,,Streetlight reported near Vatva GIDC; clustered prototype observation 950.,22.963758,72.652281,2026-07-28T14:00:00Z
+bulk-report-00951,bulk-00951,u198,,Sewage reported near Vastral; clustered prototype observation 951.,23.029708,72.669347,2026-07-24T14:00:00Z
+bulk-report-00952,bulk-00952,u199,,Fallen Tree reported near Nikol; clustered prototype observation 952.,23.049474,72.638218,2026-07-25T00:00:00Z
+bulk-report-00953,bulk-00953,u200,,Other reported near Naranpura; clustered prototype observation 953.,23.074202,72.569511,2026-07-23T05:00:00Z
+bulk-report-00954,bulk-00954,u001,,Pothole reported near Sector 7 - Chandkheda; clustered prototype observation 954.,23.108841,72.584478,2026-08-05T03:00:00Z
+bulk-report-00955,bulk-00955,u002,,Road Damage reported near Maninagar; clustered prototype observation 955.,22.991917,72.614737,2026-07-07T05:00:00Z
+bulk-report-00956,bulk-00956,u003,,Garbage reported near Satellite; clustered prototype observation 956.,23.025506,72.505641,2026-07-25T05:00:00Z
+bulk-report-00957,bulk-00957,u004,,Waterlogging reported near Navrangpura; clustered prototype observation 957.,23.036554,72.552288,2026-08-07T01:00:00Z
+bulk-report-00958,bulk-00958,u105,,Manhole reported near Gota; clustered prototype observation 958.,23.114536,72.548827,2026-08-04T05:00:00Z
+bulk-report-00959,bulk-00959,u106,,Streetlight reported near Bopal; clustered prototype observation 959.,23.031730,72.466080,2026-08-04T14:00:00Z
+bulk-report-00960,bulk-00960,u107,,Sewage reported near Vatva GIDC; clustered prototype observation 960.,22.956150,72.645965,2026-07-28T21:00:00Z
+bulk-report-00961,bulk-00961,u108,,Fallen Tree reported near Vastral; clustered prototype observation 961.,23.020788,72.660684,2026-07-06T09:00:00Z
+bulk-report-00962,bulk-00962,u109,,Other reported near Nikol; clustered prototype observation 962.,23.042506,72.631417,2026-07-20T15:00:00Z
+bulk-report-00963,bulk-00963,u110,,Pothole reported near Naranpura; clustered prototype observation 963.,23.066285,72.561563,2026-07-16T17:00:00Z
+bulk-report-00964,bulk-00964,u111,,Road Damage reported near Sector 7 - Chandkheda; clustered prototype observation 964.,23.110678,72.586413,2026-08-16T14:00:00Z
+bulk-report-00965,bulk-00965,u112,,Garbage reported near Maninagar; clustered prototype observation 965.,22.993031,72.617633,2026-07-12T02:00:00Z
+bulk-report-00966,bulk-00966,u113,,Waterlogging reported near Satellite; clustered prototype observation 966.,23.027129,72.507016,2026-07-23T02:00:00Z
+bulk-report-00967,bulk-00967,u114,,Manhole reported near Navrangpura; clustered prototype observation 967.,23.037526,72.553405,2026-07-24T06:00:00Z
+bulk-report-00968,bulk-00968,u115,,Streetlight reported near Gota; clustered prototype observation 968.,23.116334,72.549344,2026-07-07T06:00:00Z
+bulk-report-00969,bulk-00969,u116,,Sewage reported near Bopal; clustered prototype observation 969.,23.033912,72.468308,2026-08-03T09:00:00Z
+bulk-report-00970,bulk-00970,u117,,Fallen Tree reported near Vatva GIDC; clustered prototype observation 970.,22.959022,72.649159,2026-07-08T14:00:00Z
+bulk-report-00971,bulk-00971,u118,,Other reported near Vastral; clustered prototype observation 971.,23.023256,72.662527,2026-07-11T07:00:00Z
+bulk-report-00972,bulk-00972,u119,,Pothole reported near Nikol; clustered prototype observation 972.,23.042144,72.632836,2026-08-16T09:00:00Z
+bulk-report-00973,bulk-00973,u120,,Road Damage reported near Naranpura; clustered prototype observation 973.,23.068221,72.563034,2026-08-10T03:00:00Z
+bulk-report-00974,bulk-00974,u121,,Garbage reported near Sector 7 - Chandkheda; clustered prototype observation 974.,23.111897,72.588109,2026-07-16T07:00:00Z
+bulk-report-00975,bulk-00975,u122,,Waterlogging reported near Maninagar; clustered prototype observation 975.,22.995788,72.618872,2026-07-20T22:00:00Z
+bulk-report-00976,bulk-00976,u123,,Manhole reported near Satellite; clustered prototype observation 976.,23.031361,72.509434,2026-07-10T22:00:00Z
+bulk-report-00977,bulk-00977,u124,,Streetlight reported near Navrangpura; clustered prototype observation 977.,23.040967,72.555944,2026-08-02T11:00:00Z
+bulk-report-00978,bulk-00978,u125,,Sewage reported near Gota; clustered prototype observation 978.,23.116103,72.551674,2026-07-12T11:00:00Z
+bulk-report-00979,bulk-00979,u126,,Fallen Tree reported near Bopal; clustered prototype observation 979.,23.035126,72.470682,2026-08-19T02:00:00Z
+bulk-report-00980,bulk-00980,u127,,Other reported near Vatva GIDC; clustered prototype observation 980.,22.960141,72.650567,2026-08-04T19:00:00Z
+bulk-report-00981,bulk-00981,u128,,Pothole reported near Vastral; clustered prototype observation 981.,23.024866,72.664749,2026-08-07T04:00:00Z
+bulk-report-00982,bulk-00982,u129,,Road Damage reported near Nikol; clustered prototype observation 982.,23.044406,72.634657,2026-08-14T05:00:00Z
+bulk-report-00983,bulk-00983,u130,,Garbage reported near Naranpura; clustered prototype observation 983.,23.069877,72.565416,2026-07-31T06:00:00Z
+bulk-report-00984,bulk-00984,u131,,Waterlogging reported near Sector 7 - Chandkheda; clustered prototype observation 984.,23.114107,72.589786,2026-08-15T22:00:00Z
+bulk-report-00985,bulk-00985,u132,,Manhole reported near Maninagar; clustered prototype observation 985.,22.998308,72.619893,2026-08-16T13:00:00Z
+bulk-report-00986,bulk-00986,u133,,Streetlight reported near Satellite; clustered prototype observation 986.,23.031551,72.512666,2026-07-18T11:00:00Z
+bulk-report-00987,bulk-00987,u134,,Sewage reported near Navrangpura; clustered prototype observation 987.,23.042842,72.557430,2026-08-10T16:00:00Z
+bulk-report-00988,bulk-00988,u135,,Fallen Tree reported near Gota; clustered prototype observation 988.,23.120450,72.553714,2026-08-10T09:00:00Z
+bulk-report-00989,bulk-00989,u136,,Other reported near Bopal; clustered prototype observation 989.,23.036351,72.471698,2026-07-04T21:00:00Z
+bulk-report-00990,bulk-00990,u137,,Pothole reported near Vatva GIDC; clustered prototype observation 990.,22.962158,72.651732,2026-07-14T09:00:00Z
+bulk-report-00991,bulk-00991,u138,,Road Damage reported near Vastral; clustered prototype observation 991.,23.026950,72.667757,2026-08-12T05:00:00Z
+bulk-report-00992,bulk-00992,u139,,Garbage reported near Nikol; clustered prototype observation 992.,23.047554,72.636424,2026-07-25T08:00:00Z
+bulk-report-00993,bulk-00993,u140,,Waterlogging reported near Naranpura; clustered prototype observation 993.,23.071415,72.566764,2026-08-15T06:00:00Z
+bulk-report-00994,bulk-00994,u141,,Manhole reported near Sector 7 - Chandkheda; clustered prototype observation 994.,23.115945,72.591608,2026-07-24T03:00:00Z
+bulk-report-00995,bulk-00995,u142,,Streetlight reported near Maninagar; clustered prototype observation 995.,22.999660,72.621487,2026-08-07T15:00:00Z
+bulk-report-00996,bulk-00996,u143,,Sewage reported near Satellite; clustered prototype observation 996.,23.033173,72.514940,2026-08-11T07:00:00Z
+bulk-report-00997,bulk-00997,u144,,Fallen Tree reported near Navrangpura; clustered prototype observation 997.,23.044315,72.560518,2026-07-05T15:00:00Z
+bulk-report-00998,bulk-00998,u145,,Other reported near Gota; clustered prototype observation 998.,23.121776,72.554691,2026-07-16T23:00:00Z
+bulk-report-00999,bulk-00999,u146,,Pothole reported near Bopal; clustered prototype observation 999.,23.039937,72.473976,2026-07-31T00:00:00Z
+bulk-report-01000,bulk-01000,u147,,Road Damage reported near Vatva GIDC; clustered prototype observation 1000.,22.965031,72.654284,2026-08-03T14:00:00Z
+backfill-report-i006,i006,u001,uploads/i006.jpg,Pothole on SG Highway near Pakwan Junction repaired but verification FAILED — patch already broken within 48 hours.,23.0395,72.5080,2026-07-28T10:00:00Z
+backfill-report-i008,i008,u004,uploads/i008.jpg,Road surface longitudinal cracking on Bopal-Ambli Road near Shyamal Cross Road. 80m stretch affected.,23.0350,72.4700,2026-08-02T14:00:00Z
+backfill-report-i009,i009,u001,uploads/i009.jpg,"Pothole near Gota Police Station — vehicle damaged, FIR filed by resident.",23.1180,72.5520,2026-08-03T08:00:00Z
+backfill-report-i012,i012,u004,uploads/i012.jpg,Alligator cracking pattern on Vastral Main Road near Vastral BRTS. Large area of cracked surface.,23.0250,72.6650,2026-08-05T15:00:00Z
+backfill-report-i013,i013,u001,uploads/i013.jpg,Illegal dumping ground formed on Nikol-Naroda Road near underpass. Tonnes of construction debris dumped.,23.0450,72.6350,2026-08-02T10:00:00Z
+backfill-report-i014,i014,u003,uploads/i014.jpg,Overflowing municipal bins on Naranpura Helmet Crossroads. Garbage spilling on road for 4 days.,23.0720,72.5680,2026-08-03T08:30:00Z
+backfill-report-i015,i015,u002,uploads/i015.jpg,Garbage dumped in open plot opposite Satellite Bus Stop. Rodents and stray animals spotted.,23.0280,72.5130,2026-08-04T11:00:00Z
+backfill-report-i016,i016,u004,uploads/i016.jpg,Waste bins not cleared for 5 days in Gota residential area near Gota Cross Road. Severe smell.,23.1160,72.5540,2026-08-03T09:00:00Z
+backfill-report-i018,i018,u003,uploads/i018.jpg,Garbage bin on fire near Nikol sabji market. Smoke causing respiratory issues.,23.0430,72.6370,2026-08-04T14:00:00Z
+backfill-report-i019,i019,u002,uploads/i019.jpg,Public park in Bopal sector used as dumping ground. Kids' play area affected.,23.0370,72.4720,2026-08-05T10:00:00Z
+backfill-report-i020,i020,u004,uploads/i020.jpg,Garbage pile blocking storm drain entry on Chandkheda main road. Flood risk during rain.,23.1110,72.5860,2026-08-02T08:00:00Z
+backfill-report-i021,i021,u001,uploads/i021.jpg,Chronic waterlogging on Navrangpura CG Road near YMCA. Every monsoon same spot floods.,23.0395,72.5560,2026-08-02T09:00:00Z
+backfill-report-i023,i023,u002,uploads/i023.jpg,Blocked storm drain causing road flooding on Naranpura 132 Feet Ring Road. 100m stretch flooded.,23.0680,72.5640,2026-08-03T11:00:00Z
+backfill-report-i024,i024,u004,uploads/i024.jpg,Residential colony in Vastral flooded — water entering ground floor homes. Pump needed urgently.,23.0230,72.6630,2026-08-04T06:00:00Z
+backfill-report-i025,i025,u001,uploads/i025.jpg,Open manhole on Nikol Ring Road near Nikol BRTS station. No cover since 3 days.,23.0470,72.6360,2026-08-03T07:00:00Z
+backfill-report-i026,i026,u003,uploads/i026.jpg,School compound in Gota sector flooded — classes cancelled. Municipal drainage choked.,23.1195,72.5530,2026-08-04T08:00:00Z
+backfill-report-i027,i027,u002,uploads/i027.jpg,Entire Maninagar Gandhi Road stretch (500m) dark due to feeder cable fault.,23.0000,72.6150,2026-08-03T20:00:00Z
+backfill-report-i028,i028,u004,uploads/i028.jpg,Streetlight pole fallen on Bopal-Ghuma Road after storm. Blocking half lane.,23.0320,72.4680,2026-08-02T06:00:00Z
+backfill-report-i029,i029,u001,uploads/i029.jpg,Flickering streetlights on Vastral Link Road causing accidents at night.,23.0260,72.6670,2026-08-04T19:00:00Z
+backfill-report-i030,i030,u003,uploads/i030.jpg,3 streetlights stolen (poles cut) on Vatva GIDC main road. Security risk at industrial area.,22.9620,72.6480,2026-08-01T06:00:00Z
+backfill-report-i032,i032,u004,uploads/i032.jpg,"Damaged manhole cover on Navrangpura Nehru Bridge approach — cover rattling, vehicles swerving.",23.0380,72.5540,2026-08-03T14:00:00Z
+backfill-report-i034,i034,u003,uploads/i034.jpg,Large neem tree fallen across Naranpura Canal Road after storm. Blocking 2 lanes.,23.0690,72.5620,2026-08-04T05:30:00Z
+backfill-report-i035,i035,u002,uploads/i035.jpg,Banyan tree uprooted near Gota-Chandkheda connector road. Completely blocking road.,23.1150,72.5610,2026-08-01T04:00:00Z
+backfill-report-i036,i036,u004,uploads/i036.jpg,Footpath on Navrangpura CG Road completely broken — wheelchair users and elderly cannot pass.,23.0410,72.5570,2026-08-03T10:00:00Z
+backfill-report-i037,i037,u001,uploads/i037.jpg,Footpath tiles broken and sharp edges exposed near Satellite Jodhpur Cross Road. Child injured.,23.0290,72.5080,2026-08-02T11:00:00Z
+backfill-report-i041,i041,u001,uploads/i041.jpg,Deep pothole on Chandkheda Zundal Road near petrol pump. 2 accidents this week.,23.1200,72.5920,2026-08-05T08:00:00Z
+backfill-report-i042,i042,u003,uploads/i042.jpg,Unsegregated waste dumped near Vastral lake area — water contamination risk.,23.0240,72.6640,2026-08-05T12:00:00Z
+backfill-report-i044,i044,u004,uploads/i044.jpg,Road edge collapse on Gota-Tragad Road near Tragad Circle. Half road width lost.,23.1210,72.5490,2026-08-04T10:00:00Z
+backfill-report-i045,i045,u001,uploads/i045.jpg,High mast light tower on Vatva GIDC not working for 2 weeks. Large dark zone in industrial area.,22.9640,72.6490,2026-08-05T18:00:00Z
+backfill-report-i046,i046,u003,uploads/i046.jpg,Bus stand on Naranpura completely waterlogged — commuters stranded for hours.,23.0710,72.5660,2026-08-05T09:00:00Z
+backfill-report-i047,i047,u002,uploads/i047.jpg,Pothole outside Navrangpura AMTS bus depot entrance. Buses bottoming out regularly.,23.0420,72.5580,2026-08-04T13:00:00Z
+backfill-report-i048,i048,u004,uploads/i048.jpg,Dead dog carcass not removed from Nikol industrial road for 2 days. Disease risk.,23.0440,72.6380,2026-08-04T08:00:00Z
+backfill-report-CP-DAD8B5DB,CP-DAD8B5DB,u001,uploads/CP-DAD8B5DB.png,Test submission from CityPulse,23.0225,72.5714,2026-08-19T16:27:03.088668+00:00
+backfill-report-CP-6CC05C32,CP-6CC05C32,u001,uploads/CP-6CC05C32.png,Verified submission test,23.0225,72.5714,2026-08-19T16:27:27.288473+00:00
+backfill-report-CP-66324E96,CP-66324E96,u001,uploads/CP-66324E96.webp,Reported via CityPulse AI,23.0225,72.5714,2026-08-19T16:31:19.214464+00:00
+backfill-report-CP-31FC5580,CP-31FC5580,u001,uploads/CP-31FC5580.png,Waterlogging near the road,23.0225,72.5714,2026-08-19T16:41:28.477805+00:00
+backfill-report-CP-B8E8C9FA,CP-B8E8C9FA,u001,uploads/CP-B8E8C9FA.png,Waterlogging near the road,23.0225,72.5714,2026-08-19T16:42:04.937716+00:00
