@@ -5,6 +5,8 @@
 # CityPulse AI
 ### The City That Fixes Itself
 
+**🌐 Live Demo: [citypulse-ai-ten.vercel.app](https://citypulse-ai-ten.vercel.app)**
+
 **An end-to-end AI-powered civic issue management platform for Ahmedabad Municipal Corporation.**  
 Citizens report. AI analyzes. Workers fix. Admins track everything — in real time.
 
