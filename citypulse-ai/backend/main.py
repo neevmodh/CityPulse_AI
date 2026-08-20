@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
+import re as _re
 import os
 from dotenv import load_dotenv
 
@@ -11,16 +12,28 @@ from routers import workers, notifications
 
 app = FastAPI(title="CityPulse AI API", version="2.0.0")
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=[
+import re as _re
+
+def _build_origins() -> list[str]:
+    """Allow localhost + any Vercel/custom domain set via env var."""
+    origins = [
         "http://localhost:3000",
         "http://localhost:3001",
         "http://localhost:3002",
         "http://127.0.0.1:3000",
-        "http://127.0.0.1:3001",
-        "http://127.0.0.1:3002",
-    ],
+    ]
+    # FRONTEND_URL can be a comma-separated list of production origins
+    extra = os.getenv("FRONTEND_URL", "")
+    for url in extra.split(","):
+        url = url.strip().rstrip("/")
+        if url:
+            origins.append(url)
+    return origins
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=_build_origins(),
+    allow_origin_regex=r"https://.*\.vercel\.app",   # all Vercel preview URLs
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
